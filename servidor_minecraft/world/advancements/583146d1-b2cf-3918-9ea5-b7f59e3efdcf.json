@@ -2626,9 +2626,94 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-04-05 01:05:51 +0000",
       "minecraft:zombie": "2025-04-05 01:00:05 +0000"
     },
     "done": false
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-05 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/jerky": {
+    "criteria": {
+      "has_raw_meat": "2025-04-05 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "tunic": "2025-04-05 01:06:28 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-04-05 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-05 01:06:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-05 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-04-05 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-04-05 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-04-05 01:06:28 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-04-05 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-04-05 01:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-04-05 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-04-05 01:06:37 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -6112,3 +6112,17 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Apr2025 01:04:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaa
 [05Apr2025 01:06:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [How'd You Get This?]
 [05Apr2025 01:06:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Apothic Affixes]
+[05Apr2025 01:06:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has reached the goal [Worthy Equipment]
+[05Apr2025 01:06:58.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Berneice'/28, l='ServerLevel[world]', x=293.70, y=1.10, z=36.70] died: Berneice drowned
+[05Apr2025 01:07:50.031] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=87, y=235, z=25} from item 0 air and block wheat_seeds: 
+[05Apr2025 01:10:13.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zombie
+[05Apr2025 01:11:36.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was doomed to fall by Zotzpyre
+[05Apr2025 01:12:30.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was blown up by Creeper
+[05Apr2025 01:13:03.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Zotzpyre
+[05Apr2025 01:13:24.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was doomed to fall by Skeleton
+[05Apr2025 01:14:41.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:14:47.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaaaaa
+[05Apr2025 01:15:35.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was doomed to fall by Zotzpyre
+[05Apr2025 01:16:33.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was shot by Mutant Skeleton
+[05Apr2025 01:16:35.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaa
+[05Apr2025 01:16:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
