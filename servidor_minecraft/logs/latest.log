@@ -5863,3 +5863,252 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Apr2025 00:38:01.247] [Worker-Main-17/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 578ms
 [05Apr2025 00:38:03.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4340ms or 86 ticks behind
 [05Apr2025 00:38:25.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7286ms or 145 ticks behind
+[05Apr2025 00:38:51.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10940ms or 218 ticks behind
+[05Apr2025 00:38:52.922] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Apr2025 00:38:52.926] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Apr2025 00:38:52.928] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Apr2025 00:38:53.027] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Apr2025 00:38:53.104] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Apr2025 00:38:53.162] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Apr2025 00:38:53.224] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Apr2025 00:38:53.293] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Apr2025 00:38:53.358] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Apr2025 00:38:53.423] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Apr2025 00:38:53.502] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Apr2025 00:38:53.559] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Apr2025 00:38:55.703] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Apr2025 00:38:55.704] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[05Apr2025 00:38:55.712] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[05Apr2025 00:38:55.725] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[05Apr2025 00:38:56.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:59542] logged in with entity id 1094 at (262.5, 67.0, 102.5)
+[05Apr2025 00:38:56.203] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[05Apr2025 00:38:56.204] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[05Apr2025 00:38:56.204] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[05Apr2025 00:38:56.204] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[05Apr2025 00:38:56.210] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[05Apr2025 00:38:56.212] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[05Apr2025 00:38:56.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[05Apr2025 00:38:56.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[05Apr2025 00:38:56.533] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[05Apr2025 00:38:56.673] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 00:38:56.678] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[05Apr2025 00:38:56.702] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 00:38:56.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Dungeons And Combat]
+[05Apr2025 00:38:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Ice and Fire]
+[05Apr2025 00:38:57.012] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[05Apr2025 00:38:57.012] [Server thread/INFO] [survive/]: Syncing Armor Data
+[05Apr2025 00:38:57.014] [Server thread/INFO] [survive/]: Done with Armors
+[05Apr2025 00:38:57.014] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[05Apr2025 00:38:57.015] [Server thread/INFO] [survive/]: Done with Fluids
+[05Apr2025 00:38:57.015] [Server thread/INFO] [survive/]: Syncing Biome Data
+[05Apr2025 00:38:57.015] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[05Apr2025 00:38:58.991] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[05Apr2025 00:38:58.994] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[05Apr2025 00:39:01.739] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[05Apr2025 00:39:01.743] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Apr2025 00:39:02.167] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-26, z=202}
+[05Apr2025 00:39:02.169] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-26, z=203}
+[05Apr2025 00:39:02.171] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Apr2025 00:39:02.174] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=202}
+[05Apr2025 00:39:02.175] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=196}
+[05Apr2025 00:39:02.175] [Worker-Main-16/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[05Apr2025 00:39:02.175] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-24, z=195}
+[05Apr2025 00:39:02.175] [Worker-Main-16/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[05Apr2025 00:39:02.176] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=50, y=-25, z=194}
+[05Apr2025 00:39:02.176] [Worker-Main-16/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[05Apr2025 00:39:02.177] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=51, y=-26, z=198}
+[05Apr2025 00:39:02.178] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Apr2025 00:39:02.179] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Apr2025 00:39:02.179] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Apr2025 00:39:02.180] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Apr2025 00:39:02.181] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Apr2025 00:39:02.182] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Apr2025 00:39:02.184] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[05Apr2025 00:39:02.186] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=195}
+[05Apr2025 00:39:02.186] [Worker-Main-16/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[05Apr2025 00:39:02.188] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=194}
+[05Apr2025 00:39:02.189] [Worker-Main-16/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[05Apr2025 00:39:02.190] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=52, y=-25, z=196}
+[05Apr2025 00:39:02.191] [Worker-Main-16/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[05Apr2025 00:39:02.192] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Apr2025 00:39:02.193] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Apr2025 00:39:02.193] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Apr2025 00:39:02.194] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[05Apr2025 00:39:02.194] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=196}
+[05Apr2025 00:39:02.195] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=55, y=-27, z=193}
+[05Apr2025 00:39:13.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6768ms or 135 ticks behind
+[05Apr2025 00:39:30.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[05Apr2025 00:39:38.480] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[05Apr2025 00:39:48.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[05Apr2025 00:40:28.517] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=75, y=-26, z=285}
+[05Apr2025 00:43:59.551] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[05Apr2025 00:43:24.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Sweet Dreams]
+[05Apr2025 00:44:44.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 79169ms or 1583 ticks behind
+[05Apr2025 00:44:44.000] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-25, z=291}
+[05Apr2025 00:44:44.001] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-25, z=289}
+[05Apr2025 00:44:44.001] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-25, z=293}
+[05Apr2025 00:44:44.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS lost connection: Disconnected
+[05Apr2025 00:44:44.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS left the game
+[05Apr2025 00:44:44.189] [Server thread/INFO] [survive/]: Removing Client (ELROMPECLITOS) From Survive Data Sync List
+[05Apr2025 00:44:44.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Disconnected
+[05Apr2025 00:44:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[05Apr2025 00:44:44.212] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[05Apr2025 00:44:44.219] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70055788[id=<null>,name=geotrush,properties={},legacy=false] (/100.84.125.88:59896) lost connection: Disconnected
+[05Apr2025 00:45:02.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[05Apr2025 00:45:06.333] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Apr2025 00:45:06.337] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Apr2025 00:45:06.522] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Apr2025 00:45:06.523] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Apr2025 00:45:06.523] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Apr2025 00:45:06.535] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Apr2025 00:45:06.726] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Apr2025 00:45:06.727] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Apr2025 00:45:06.730] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Apr2025 00:45:06.904] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Apr2025 00:45:06.905] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Apr2025 00:45:06.905] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Apr2025 00:45:10.165] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Apr2025 00:45:10.165] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[05Apr2025 00:45:10.167] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[05Apr2025 00:45:11.290] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[05Apr2025 00:45:11.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:59919] logged in with entity id 2274 at (298.5, 74.0, 97.5)
+[05Apr2025 00:45:12.073] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[05Apr2025 00:45:12.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[05Apr2025 00:45:12.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[05Apr2025 00:45:12.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[05Apr2025 00:45:12.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[05Apr2025 00:45:12.105] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[05Apr2025 00:45:12.106] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[05Apr2025 00:45:12.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[05Apr2025 00:45:12.742] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[05Apr2025 00:45:12.853] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 00:45:12.868] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[05Apr2025 00:45:12.923] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 00:45:13.338] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[05Apr2025 00:45:13.341] [Server thread/INFO] [survive/]: Syncing Armor Data
+[05Apr2025 00:45:13.342] [Server thread/INFO] [survive/]: Done with Armors
+[05Apr2025 00:45:13.342] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[05Apr2025 00:45:13.343] [Server thread/INFO] [survive/]: Done with Fluids
+[05Apr2025 00:45:13.343] [Server thread/INFO] [survive/]: Syncing Biome Data
+[05Apr2025 00:45:13.344] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[05Apr2025 00:45:13.565] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[05Apr2025 00:45:13.763] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Apr2025 00:45:23.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6603ms or 132 ticks behind
+[05Apr2025 00:46:31.958] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Apr2025 00:46:32.003] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Apr2025 00:46:32.011] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Apr2025 00:46:32.056] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Apr2025 00:46:32.069] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Apr2025 00:46:32.127] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Apr2025 00:46:32.153] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Apr2025 00:46:32.192] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Apr2025 00:46:32.246] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Apr2025 00:46:32.311] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Apr2025 00:46:32.348] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Apr2025 00:46:32.378] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Apr2025 00:46:33.327] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Apr2025 00:46:33.328] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[05Apr2025 00:46:33.358] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[05Apr2025 00:46:33.366] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[05Apr2025 00:46:33.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELROMPECLITOS[/100.90.134.39:51496] logged in with entity id 3037 at (279.3614959488481, 66.0, 102.20790724044257)
+[05Apr2025 00:46:33.666] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ELROMPECLITOS
+[05Apr2025 00:46:33.666] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ELROMPECLITOS
+[05Apr2025 00:46:33.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ELROMPECLITOS
+[05Apr2025 00:46:33.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ELROMPECLITOS
+[05Apr2025 00:46:33.669] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ELROMPECLITOS
+[05Apr2025 00:46:33.671] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ELROMPECLITOS
+[05Apr2025 00:46:33.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ELROMPECLITOS
+[05Apr2025 00:46:33.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS joined the game
+[05Apr2025 00:46:33.888] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to ELROMPECLITOS
+[05Apr2025 00:46:33.902] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (ea1d6924-ef7f-3006-9b46-6c348f596194)
+[05Apr2025 00:46:33.905] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ELROMPECLITOS
+[05Apr2025 00:46:33.924] [Server thread/INFO] [Jade/]: Syncing config to ELROMPECLITOS (ea1d6924-ef7f-3006-9b46-6c348f596194)
+[05Apr2025 00:46:34.110] [Server thread/INFO] [survive/]: Syncing All Data To Client (ELROMPECLITOS)
+[05Apr2025 00:46:34.111] [Server thread/INFO] [survive/]: Syncing Armor Data
+[05Apr2025 00:46:34.112] [Server thread/INFO] [survive/]: Done with Armors
+[05Apr2025 00:46:34.112] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[05Apr2025 00:46:34.112] [Server thread/INFO] [survive/]: Done with Fluids
+[05Apr2025 00:46:34.112] [Server thread/INFO] [survive/]: Syncing Biome Data
+[05Apr2025 00:46:34.112] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[05Apr2025 00:46:40.139] [Server thread/INFO] [ping-wheel/]: Channel update: ELROMPECLITOS -> default
+[05Apr2025 00:46:40.139] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Apr2025 00:47:10.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Honeyed Archer
+[05Apr2025 00:47:13.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush hit the ground too hard
+[05Apr2025 00:47:33.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaa
+[05Apr2025 00:47:35.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2321, l='ServerLevel[world]', x=291.68, y=66.00, z=94.71] died: Honeyed Archer was slain by Iron Golem
+[05Apr2025 00:48:16.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Acquire Hardware]
+[05Apr2025 00:49:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Not a Diamond]
+[05Apr2025 00:50:30.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marcelo'/46, l='ServerLevel[world]', x=237.35, y=66.00, z=141.18] died, message: 'Marcelo was killed by magic'
+[05Apr2025 00:50:30.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marcelo'/46, l='ServerLevel[world]', x=237.35, y=66.00, z=141.18] died: Marcelo was killed by magic
+[05Apr2025 00:50:41.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Buck'/6, l='ServerLevel[world]', x=267.03, y=67.00, z=152.16] died, message: 'Buck was killed by magic'
+[05Apr2025 00:50:41.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Buck'/6, l='ServerLevel[world]', x=267.03, y=67.00, z=152.16] died: Buck was killed by magic
+[05Apr2025 00:51:10.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Stone Age]
+[05Apr2025 00:51:33.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Getting an Upgrade]
+[05Apr2025 00:51:41.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Stone Age]
+[05Apr2025 00:52:41.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Getting an Upgrade]
+[05Apr2025 00:53:46.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaa
+[05Apr2025 00:54:00.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaaa
+[05Apr2025 00:55:47.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaaa
+[05Apr2025 00:56:30.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Betrayed Guzzler
+[05Apr2025 00:57:17.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [How'd You Get This?]
+[05Apr2025 00:57:17.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Apothic Affixes]
+[05Apr2025 00:59:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Monster Hunter]
+[05Apr2025 00:59:49.230] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Walton'/68, l='ServerLevel[world]', x=193.50, y=67.00, z=96.53] died, message: 'Walton was shot by Hermit Witch'
+[05Apr2025 00:59:49.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Walton'/68, l='ServerLevel[world]', x=193.50, y=67.00, z=96.53] died: Walton was shot by Hermit Witch
+[05Apr2025 00:59:56.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Harris'/60, l='ServerLevel[world]', x=325.91, y=64.00, z=93.07] died, message: 'Harris was slain by Zombie'
+[05Apr2025 00:59:56.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Harris'/60, l='ServerLevel[world]', x=325.91, y=64.00, z=93.07] died: Harris was slain by Zombie
+[05Apr2025 01:00:02.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Harris'/8124, l='ServerLevel[world]', x=324.92, y=63.00, z=95.90] died: Harris was slain by Iron Golem
+[05Apr2025 01:00:05.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Monster Hunter]
+[05Apr2025 01:00:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:01:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was killed by magic
+[05Apr2025 01:02:15.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jamel'/31, l='ServerLevel[world]', x=220.65, y=66.00, z=36.50] died, message: 'Jamel was slain by Zombie'
+[05Apr2025 01:02:15.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jamel'/31, l='ServerLevel[world]', x=220.65, y=66.00, z=36.50] died: Jamel was slain by Zombie
+[05Apr2025 01:02:20.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[05Apr2025 01:02:20.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[05Apr2025 01:02:20.841] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[05Apr2025 01:02:20.855] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 01:02:40.843] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Apr2025 01:02:40.845] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Apr2025 01:02:40.845] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Apr2025 01:02:40.846] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Apr2025 01:02:40.846] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Apr2025 01:02:40.847] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Apr2025 01:02:40.848] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Apr2025 01:02:40.848] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Apr2025 01:02:40.849] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Apr2025 01:02:40.849] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Apr2025 01:02:40.850] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Apr2025 01:02:40.850] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Apr2025 01:02:45.751] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Apr2025 01:02:45.751] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[05Apr2025 01:02:45.823] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[05Apr2025 01:02:47.040] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[05Apr2025 01:02:47.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:60367] logged in with entity id 10138 at (307.9013296381926, 50.0, 80.52328691456721)
+[05Apr2025 01:02:47.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[05Apr2025 01:02:47.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[05Apr2025 01:02:47.468] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[05Apr2025 01:02:47.468] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[05Apr2025 01:02:47.469] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[05Apr2025 01:02:47.471] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[05Apr2025 01:02:47.471] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[05Apr2025 01:02:47.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[05Apr2025 01:02:47.580] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[05Apr2025 01:02:47.601] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 01:02:47.604] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[05Apr2025 01:02:47.619] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 01:02:47.737] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[05Apr2025 01:02:47.737] [Server thread/INFO] [survive/]: Syncing Armor Data
+[05Apr2025 01:02:47.738] [Server thread/INFO] [survive/]: Done with Armors
+[05Apr2025 01:02:47.738] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[05Apr2025 01:02:47.738] [Server thread/INFO] [survive/]: Done with Fluids
+[05Apr2025 01:02:47.738] [Server thread/INFO] [survive/]: Syncing Biome Data
+[05Apr2025 01:02:47.738] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[05Apr2025 01:02:49.712] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[05Apr2025 01:02:49.713] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Apr2025 01:02:57.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Slice all!]
+[05Apr2025 01:03:31.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Acquire Hardware]
+[05Apr2025 01:03:43.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Isn't It Iron Pick]
+[05Apr2025 01:04:18.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was blown up by Creeper
+[05Apr2025 01:04:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaa
+[05Apr2025 01:06:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [How'd You Get This?]
+[05Apr2025 01:06:28.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Apothic Affixes]

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "583146d1b2cf39189ea5b7f59e3efdcf"
+	name: "geotrush#583146d1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ea1d6924ef7f30069b466c348f596194"
+	name: "ELROMPECLITOS#ea1d6924"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
