@@ -6235,3 +6235,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Apr2025 01:22:09.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
 [05Apr2025 01:22:09.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
 [05Apr2025 01:22:09.175] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[05Apr2025 01:26:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Not Today, Thank You]
+[05Apr2025 01:27:55.266] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=18, y=249, z=50} from item 0 air and block carrot: 
+[05Apr2025 01:27:57.486] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=24, y=247, z=44} from item 0 air and block carrot: 
+[05Apr2025 01:28:37.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Take Aim]
+[05Apr2025 01:31:21.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Apr2025 01:31:36.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Frank'/47, l='ServerLevel[world]', x=243.95, y=64.00, z=153.39] died, message: 'Frank was slain by Ernos'
+[05Apr2025 01:31:36.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Frank'/47, l='ServerLevel[world]', x=243.95, y=64.00, z=153.39] died: Frank was slain by Ernos
