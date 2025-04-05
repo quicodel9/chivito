@@ -1,0 +1,31 @@
+{
+	"enableCustomResourceBars": false,
+	"maxStacksPerEntity": 128,
+	"levelingSearchRadius": 128.0,
+	"levelsPerPoint": 0.4,
+	"cancelLevelsForPassives": true,
+	"allowedStructureNamespaces": [
+		"eeeabsmobs",
+		"cataclysm",
+		"dungeons_arise",
+		"dungeons_arise_seven_seas",
+		"mowziesmobs",
+		"deep_aether"
+	],
+	"additionalValidStructures": [
+		"irons_spellbooks:catacombs",
+		"aether:bronze_dungeon",
+		"aether:silver_dungeon",
+		"aether:gold_dungeon",
+		"ancient_aether:ancient_dungeon",
+		"dungeons_and_combat:blazing_fortress"
+	],
+	"applyPlayerBasedLeveling": true,
+	"structureSearchRadius": 6,
+	"enableStructureLevelBonus": true,
+	"structureLevelBonuses": {
+		"dungeons_arise:mushroom_mines": 10,
+		"minecraft:stronghold": 10,
+		"dungeons_arise:coliseum": 20
+	}
+}

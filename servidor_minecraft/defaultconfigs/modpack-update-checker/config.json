@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 4,
+  "currentVersion": "bcc",
+  "modpackName": "MMC4 Forge",
+  "modpackAuthor": "Luna Pixel Studios",
+  "githubRepo": "https://raw.githubusercontent.com/LunaPixelStudios/Modpack-Update-Checker/new/mmc4forge/",
+  "advanced": {
+    "bccEnabled": true,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "showAllChangelogsIfUpToDate": false,
+    "markdownRenderer": "builtin:basic"
+  }
+}  
