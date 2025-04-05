@@ -6284,3 +6284,119 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Apr2025 01:43:12.205] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [05Apr2025 01:43:18.659] [Server thread/INFO] [ping-wheel/]: Channel update: ELROMPECLITOS -> default
 [05Apr2025 01:43:18.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Apr2025 01:48:39.206] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=54, y=238, z=-42} from item 0 air and block carrot: 
+[05Apr2025 01:49:38.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was killed by magic whilst trying to escape Hermit Witch
+[05Apr2025 01:50:14.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS tried to swim in lava
+[05Apr2025 01:50:51.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was blown up by Creeper
+[05Apr2025 01:51:03.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS fell from a high place
+[05Apr2025 01:51:39.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c9036f4[id=<null>,name=geotrush,properties={},legacy=false] (/100.84.125.88:61966) lost connection: Disconnected
+[05Apr2025 01:51:51.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Remanent
+[05Apr2025 01:51:51.700] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Apr2025 01:51:51.700] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[05Apr2025 01:51:51.700] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Apr2025 01:51:51.700] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Apr2025 01:51:51.700] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[05Apr2025 01:51:56.033] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Apr2025 01:51:56.033] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Apr2025 01:51:56.033] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Apr2025 01:51:56.033] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Apr2025 01:51:56.034] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Apr2025 01:51:56.188] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Apr2025 01:51:56.188] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Apr2025 01:51:56.188] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Apr2025 01:51:56.189] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Apr2025 01:51:56.189] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Apr2025 01:51:56.189] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Apr2025 01:51:56.190] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Apr2025 01:52:01.759] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Apr2025 01:52:01.759] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[05Apr2025 01:52:01.761] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[05Apr2025 01:52:02.974] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[05Apr2025 01:52:03.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:62025] logged in with entity id 30630 at (184.73347786434323, 16.0, 105.92520795996882)
+[05Apr2025 01:52:03.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[05Apr2025 01:52:03.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[05Apr2025 01:52:03.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[05Apr2025 01:52:03.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[05Apr2025 01:52:03.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[05Apr2025 01:52:03.378] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[05Apr2025 01:52:03.378] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[05Apr2025 01:52:03.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[05Apr2025 01:52:03.528] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[05Apr2025 01:52:03.546] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 01:52:03.548] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[05Apr2025 01:52:03.566] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 01:52:03.701] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[05Apr2025 01:52:03.701] [Server thread/INFO] [survive/]: Syncing Armor Data
+[05Apr2025 01:52:03.701] [Server thread/INFO] [survive/]: Done with Armors
+[05Apr2025 01:52:03.701] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[05Apr2025 01:52:03.702] [Server thread/INFO] [survive/]: Done with Fluids
+[05Apr2025 01:52:03.702] [Server thread/INFO] [survive/]: Syncing Biome Data
+[05Apr2025 01:52:03.702] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[05Apr2025 01:52:05.285] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[05Apr2025 01:52:05.474] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[05Apr2025 01:52:33.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was killed by magic
+[05Apr2025 01:52:37.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:52:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:52:52.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:52:56.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:53:05.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:53:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:53:21.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:53:29.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:53:37.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:53:42.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:53:53.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:54:06.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:54:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:54:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:54:33.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:54:38.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaa
+[05Apr2025 01:54:43.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:54:55.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:55:34.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:55:36.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was shot by Hermit Witch
+[05Apr2025 01:56:04.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:56:26.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Zotzpyre
+[05Apr2025 01:56:30.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[05Apr2025 01:56:30.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[05Apr2025 01:56:30.230] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[05Apr2025 01:56:30.238] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 01:56:46.398] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Apr2025 01:56:46.401] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Apr2025 01:56:46.402] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Apr2025 01:56:46.405] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Apr2025 01:56:46.406] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Apr2025 01:56:46.406] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Apr2025 01:56:46.406] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Apr2025 01:56:46.407] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Apr2025 01:56:46.407] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Apr2025 01:56:46.408] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Apr2025 01:56:46.409] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Apr2025 01:56:47.067] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Apr2025 01:56:53.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was shot by Skeleton
+[05Apr2025 01:57:02.822] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Apr2025 01:57:02.822] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[05Apr2025 01:57:02.950] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[05Apr2025 01:57:05.305] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[05Apr2025 01:57:05.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:62101] logged in with entity id 34143 at (264.352681600427, 69.21589434553873, 38.49233689418608)
+[05Apr2025 01:57:05.692] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[05Apr2025 01:57:05.692] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[05Apr2025 01:57:05.693] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[05Apr2025 01:57:05.693] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[05Apr2025 01:57:05.694] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[05Apr2025 01:57:05.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[05Apr2025 01:57:05.695] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[05Apr2025 01:57:05.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[05Apr2025 01:57:05.833] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[05Apr2025 01:57:05.850] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 01:57:05.852] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[05Apr2025 01:57:05.869] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[05Apr2025 01:57:05.960] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[05Apr2025 01:57:05.960] [Server thread/INFO] [survive/]: Syncing Armor Data
+[05Apr2025 01:57:05.960] [Server thread/INFO] [survive/]: Done with Armors
+[05Apr2025 01:57:05.961] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[05Apr2025 01:57:05.961] [Server thread/INFO] [survive/]: Done with Fluids
+[05Apr2025 01:57:05.961] [Server thread/INFO] [survive/]: Syncing Biome Data
+[05Apr2025 01:57:05.961] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[05Apr2025 01:57:09.173] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[05Apr2025 01:57:09.370] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.

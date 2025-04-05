@@ -2632,6 +2632,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-04-05 01:03:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-04-05 01:03:59 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/letios_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-04-05 01:06:26 +0000"
@@ -2644,27 +2656,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/primordial_armor": {
-    "criteria": {
-      "tunic": "2025-04-05 01:06:28 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-04-05 01:06:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_leggings": "2025-04-05 01:06:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-04-05 01:06:39 +0000"
     },
     "done": true
   },
@@ -2674,17 +2668,11 @@
     },
     "done": true
   },
-  "apotheosis:affix/rare": {
+  "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
-      "sword": "2025-04-05 01:06:37 +0000"
+      "tunic": "2025-04-05 01:06:28 +0000"
     },
-    "done": true
-  },
-  "supplementaries:recipes/flower_box": {
-    "criteria": {
-      "has_dirt": "2025-04-05 01:03:59 +0000"
-    },
-    "done": true
+    "done": false
   },
   "apotheosis:affix/root": {
     "criteria": {
@@ -2692,15 +2680,21 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
-    "criteria": {
-      "has_dirt": "2025-04-05 01:03:59 +0000"
-    },
-    "done": true
-  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-04-05 01:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-04-05 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-04-05 01:06:37 +0000"
     },
     "done": true
   },
@@ -2713,6 +2707,12 @@
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-04-05 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-05 01:06:39 +0000"
     },
     "done": true
   },
