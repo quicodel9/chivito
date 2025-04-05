@@ -285,6 +285,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-05 00:55:12 +0000",
+      "minecraft:beach": "2025-04-05 01:20:07 +0000",
       "minecraft:forest": "2025-04-05 00:37:46 +0000"
     },
     "done": false
@@ -316,6 +317,12 @@
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -445,9 +452,33 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/utherium_boots": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_chair": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -460,6 +491,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -560,6 +597,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/tools/utherium_pickaxe": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 01:03:31 +0000"
@@ -590,9 +633,21 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_utherium": "2025-04-05 01:21:28 +0000"
     },
     "done": true
   },
@@ -830,6 +885,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_sign": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
@@ -869,6 +930,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-05 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/utherium_helmet": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
     },
     "done": true
   },
@@ -944,6 +1011,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/utherium_leggings": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_fence": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
@@ -965,6 +1038,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-05 00:51:09 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -1031,6 +1110,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-05 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -1232,6 +1317,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/tools/utherium_axe": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-04-05 01:01:21 +0000"
@@ -1262,6 +1353,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/utherium_sword": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-04-05 00:51:09 +0000"
@@ -1277,6 +1374,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -1334,6 +1437,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-04-05 00:51:09 +0000"
@@ -1349,6 +1458,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-04-05 01:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-05 01:21:10 +0000"
     },
     "done": true
   },
@@ -1397,6 +1512,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-04-05 01:10:34 +0000"
+    },
+    "done": true
+  },
+  "eidolon:athame": {
+    "criteria": {
+      "has_athame": "2025-04-05 01:16:56 +0000"
     },
     "done": true
   },
@@ -1629,6 +1750,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-04-05 00:51:09 +0000"
@@ -1653,6 +1780,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/utherium_knife": {
+    "criteria": {
+      "has_ingots/utherium": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-04-05 00:51:18 +0000"
@@ -1668,6 +1801,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-05 00:51:09 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -1743,6 +1882,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-05 00:52:41 +0000"
@@ -1793,6 +1938,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-04-05 01:20:12 +0000",
       "minecraft:zombie": "2025-04-05 00:59:39 +0000"
     },
     "done": false
@@ -1872,6 +2018,12 @@
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-04-05 00:51:09 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -2043,6 +2195,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-04-05 00:51:18 +0000"
@@ -2061,6 +2219,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-04-05 01:20:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_ladder": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
@@ -2070,6 +2234,12 @@
   "minecolonies:recipes/misc/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-04-05 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -2094,6 +2264,12 @@
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-04-05 00:51:09 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -2139,6 +2315,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/tools/utherium_shovel": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2025-04-05 01:03:31 +0000"
@@ -2154,6 +2336,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-05 01:04:03 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -2247,6 +2441,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/utherium_chestplate": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/torch_ditchbulb_paste": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
@@ -2274,6 +2474,12 @@
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -2319,6 +2525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2025-04-05 01:01:21 +0000"
@@ -2358,6 +2570,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-04-05 01:05:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -2649,6 +2867,12 @@
     },
     "done": true
   },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-04-05 01:15:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/diamond_hammer": {
     "criteria": {
       "has_stick": "2025-04-05 00:51:18 +0000"
@@ -2670,6 +2894,18 @@
   "betterarcheology:recipes/tools/iron_brush": {
     "criteria": {
       "has_iron_ingot": "2025-04-05 01:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
@@ -2712,6 +2948,12 @@
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-04-05 00:53:08 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/utherium_hoe": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
     },
     "done": true
   },
@@ -2763,6 +3005,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/utherium_block": {
+    "criteria": {
+      "has_utherium_crystal": "2025-04-05 01:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-05 00:53:30 +0000"
@@ -2778,6 +3032,12 @@
   "domum_ornamentum:recipes/tools/purple_cobblestone_extra": {
     "criteria": {
       "has_material": "2025-04-05 00:51:41 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-04-05 01:20:13 +0000"
     },
     "done": true
   },
