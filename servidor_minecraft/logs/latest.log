@@ -6242,3 +6242,45 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [05Apr2025 01:31:21.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [05Apr2025 01:31:36.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Frank'/47, l='ServerLevel[world]', x=243.95, y=64.00, z=153.39] died, message: 'Frank was slain by Ernos'
 [05Apr2025 01:31:36.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Frank'/47, l='ServerLevel[world]', x=243.95, y=64.00, z=153.39] died: Frank was slain by Ernos
+[05Apr2025 01:38:22.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Suit Up]
+[05Apr2025 01:41:37.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS lost connection: Timed out
+[05Apr2025 01:41:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS left the game
+[05Apr2025 01:41:37.324] [Server thread/INFO] [survive/]: Removing Client (ELROMPECLITOS) From Survive Data Sync List
+[05Apr2025 01:43:09.725] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[05Apr2025 01:43:09.833] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[05Apr2025 01:43:09.834] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[05Apr2025 01:43:09.834] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[05Apr2025 01:43:09.834] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[05Apr2025 01:43:09.870] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[05Apr2025 01:43:09.919] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[05Apr2025 01:43:09.969] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[05Apr2025 01:43:10.019] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[05Apr2025 01:43:10.120] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[05Apr2025 01:43:10.121] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[05Apr2025 01:43:10.169] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[05Apr2025 01:43:11.515] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[05Apr2025 01:43:11.515] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[05Apr2025 01:43:11.550] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[05Apr2025 01:43:11.556] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[05Apr2025 01:43:11.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELROMPECLITOS[/100.90.134.39:52114] logged in with entity id 27035 at (-11.699999988079071, 7.0, 154.66628336120732)
+[05Apr2025 01:43:11.954] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ELROMPECLITOS
+[05Apr2025 01:43:11.954] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ELROMPECLITOS
+[05Apr2025 01:43:11.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ELROMPECLITOS
+[05Apr2025 01:43:11.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ELROMPECLITOS
+[05Apr2025 01:43:11.956] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ELROMPECLITOS
+[05Apr2025 01:43:11.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ELROMPECLITOS
+[05Apr2025 01:43:11.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ELROMPECLITOS
+[05Apr2025 01:43:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS joined the game
+[05Apr2025 01:43:12.059] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to ELROMPECLITOS
+[05Apr2025 01:43:12.077] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (ea1d6924-ef7f-3006-9b46-6c348f596194)
+[05Apr2025 01:43:12.079] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ELROMPECLITOS
+[05Apr2025 01:43:12.092] [Server thread/INFO] [Jade/]: Syncing config to ELROMPECLITOS (ea1d6924-ef7f-3006-9b46-6c348f596194)
+[05Apr2025 01:43:12.203] [Server thread/INFO] [survive/]: Syncing All Data To Client (ELROMPECLITOS)
+[05Apr2025 01:43:12.204] [Server thread/INFO] [survive/]: Syncing Armor Data
+[05Apr2025 01:43:12.204] [Server thread/INFO] [survive/]: Done with Armors
+[05Apr2025 01:43:12.204] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[05Apr2025 01:43:12.205] [Server thread/INFO] [survive/]: Done with Fluids
+[05Apr2025 01:43:12.205] [Server thread/INFO] [survive/]: Syncing Biome Data
+[05Apr2025 01:43:12.205] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[05Apr2025 01:43:18.659] [Server thread/INFO] [ping-wheel/]: Channel update: ELROMPECLITOS -> default
+[05Apr2025 01:43:18.706] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
