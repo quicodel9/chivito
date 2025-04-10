@@ -313,7 +313,8 @@
     "criteria": {
       "apple": "2025-04-10 00:06:50 +0000",
       "bread": "2025-04-05 00:46:59 +0000",
-      "rotten_flesh": "2025-04-10 00:12:53 +0000"
+      "rotten_flesh": "2025-04-10 00:12:53 +0000",
+      "glow_berries": "2025-04-10 00:44:11 +0000"
     },
     "done": false
   },
@@ -2632,6 +2633,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-05 01:21:26 +0000",
       "minecraft:spider": "2025-04-05 01:05:51 +0000",
+      "minecraft:creeper": "2025-04-10 00:43:20 +0000",
       "minecraft:zombie": "2025-04-05 01:00:05 +0000"
     },
     "done": false
@@ -2756,6 +2758,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-04-10 00:46:21 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:23:11 +0000"
@@ -2813,6 +2821,18 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-04-10 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-10 00:36:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 00:42:45 +0000"
     },
     "done": true
   },
@@ -2954,6 +2974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-10 00:46:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:23:11 +0000"
@@ -2993,6 +3019,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-04-10 00:42:45 +0000"
     },
     "done": true
   },
@@ -3128,6 +3160,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-10 00:42:45 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/glow_berry_marmalade": {
+    "criteria": {
+      "has_glow_berries": "2025-04-10 00:44:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-10 00:32:21 +0000"
@@ -3149,6 +3193,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-04-10 00:44:26 +0000"
     },
     "done": true
   },
@@ -3182,9 +3232,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-10 00:45:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-04-10 00:44:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:32:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-10 00:43:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 00:42:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-04-10 00:45:10 +0000"
     },
     "done": true
   },
@@ -3290,6 +3370,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-10 00:42:45 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/crystal_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:23:11 +0000"
@@ -3299,6 +3385,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:31:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-04-10 00:42:50 +0000"
     },
     "done": true
   },
@@ -3335,6 +3427,24 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-04-10 00:29:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 00:42:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-04-10 00:46:21 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-04-10 00:45:10 +0000"
     },
     "done": true
   },
@@ -3380,6 +3490,12 @@
     },
     "done": true
   },
+  "georenouveau:recipes/misc/emerald_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-04-10 00:46:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:23:11 +0000"
@@ -3395,6 +3511,18 @@
   "aether_redux:recipes/transportation/jellyshroom_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-04-10 00:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-10 00:45:10 +0000"
     },
     "done": true
   },
