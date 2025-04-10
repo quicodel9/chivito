@@ -288,6 +288,7 @@
       "minecraft:beach": "2025-04-05 01:20:07 +0000",
       "minecraft:river": "2025-04-05 01:32:10 +0000",
       "minecraft:forest": "2025-04-05 00:37:46 +0000",
+      "minecraft:ocean": "2025-04-10 00:23:14 +0000",
       "minecraft:plains": "2025-04-05 01:25:13 +0000"
     },
     "done": false
@@ -1801,6 +1802,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-10 00:06:18 +0000",
       "minecraft:skeleton": "2025-04-05 01:27:03 +0000",
       "minecraft:spider": "2025-04-05 01:20:12 +0000",
       "minecraft:zombie": "2025-04-05 00:59:39 +0000"
@@ -3404,6 +3406,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-10 00:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-10 00:09:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-04-09 23:57:21 +0000"
@@ -3422,9 +3436,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-10 00:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-09 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-04-10 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-10 00:12:24 +0000"
     },
     "done": true
   },
@@ -3446,15 +3478,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-10 00:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-10 00:19:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-10 00:12:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-10 00:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-10 00:19:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-04-10 00:15:28 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-04-09 23:57:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-10 00:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-10 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-04-10 00:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-10 00:20:11 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/bomb": {
     "criteria": {
       "has_the_recipe": "2025-04-09 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-04-10 00:19:22 +0000"
     },
     "done": true
   },
@@ -3470,15 +3568,69 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-04-10 00:09:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-04-09 23:57:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-10 00:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-04-10 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-04-10 00:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-04-10 00:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-04-10 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-04-10 00:09:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-04-09 23:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-04-10 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-04-10 00:13:13 +0000"
     },
     "done": true
   },

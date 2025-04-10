@@ -285,7 +285,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-05 00:43:20 +0000",
-      "minecraft:forest": "2025-04-05 00:38:59 +0000"
+      "minecraft:beach": "2025-04-10 00:10:34 +0000",
+      "minecraft:forest": "2025-04-05 00:38:59 +0000",
+      "minecraft:plains": "2025-04-10 00:23:01 +0000"
     },
     "done": false
   },
@@ -309,7 +311,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-05 00:46:59 +0000"
+      "apple": "2025-04-10 00:06:50 +0000",
+      "bread": "2025-04-05 00:46:59 +0000",
+      "rotten_flesh": "2025-04-10 00:12:53 +0000"
     },
     "done": false
   },
@@ -2725,6 +2729,336 @@
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2025-04-05 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-10 00:08:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-04-10 00:24:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-10 00:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-04-10 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2025-04-10 00:24:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-10 00:24:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-10 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-04-10 00:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/highsproot_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-04-10 00:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-04-10 00:09:54 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-10 00:10:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_boat": {
+    "criteria": {
+      "in_water": "2025-04-10 00:23:11 +0000"
     },
     "done": true
   },
