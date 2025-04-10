@@ -287,6 +287,7 @@
       "minecraft:birch_forest": "2025-04-05 00:43:20 +0000",
       "minecraft:beach": "2025-04-10 00:10:34 +0000",
       "minecraft:forest": "2025-04-05 00:38:59 +0000",
+      "minecraft:ocean": "2025-04-10 00:52:35 +0000",
       "minecraft:plains": "2025-04-10 00:23:01 +0000"
     },
     "done": false
@@ -3100,6 +3101,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-10 00:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:31:54 +0000"
@@ -3190,6 +3197,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:49:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:31:54 +0000"
@@ -3247,6 +3260,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-10 00:32:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:49:28 +0000"
     },
     "done": true
   },
@@ -3328,6 +3347,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/transportation/aurum_chest_boat": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:49:28 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-04-10 00:09:54 +0000"
@@ -3373,6 +3398,12 @@
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-04-10 00:42:45 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/transportation/edelwood_chest_boat": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:49:28 +0000"
     },
     "done": true
   },
@@ -3481,6 +3512,12 @@
   "aether_redux:recipes/transportation/cloudcap_boat": {
     "criteria": {
       "in_water": "2025-04-10 00:23:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-10 00:49:28 +0000"
     },
     "done": true
   },
