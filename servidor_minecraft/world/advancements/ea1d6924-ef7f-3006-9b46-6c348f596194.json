@@ -6048,12 +6048,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-12 13:32:22 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-04-12 13:27:43 +0000"
@@ -6372,12 +6366,6 @@
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-04-12 13:32:32 +0000"
-    },
-    "done": true
-  },
   "ancient_aether:recipes/building_blocks/sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 13:27:43 +0000"
@@ -6471,6 +6459,18 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-12 13:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-12 13:32:22 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-04-12 13:32:32 +0000"
     },
     "done": true
   },

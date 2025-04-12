@@ -4028,11 +4028,27 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2025-04-12 13:41:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_gloves_repairing": {
     "criteria": {
       "has_golden_gloves": "2025-04-12 13:32:26 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-04-12 13:42:46 +0000",
+      "rocky_shrubland": "2025-04-12 13:43:10 +0000",
+      "orchard": "2025-04-12 13:41:38 +0000",
+      "overgrown_greens": "2025-04-12 13:43:32 +0000",
+      "redwood_forest": "2025-04-12 13:44:02 +0000"
+    },
+    "done": false
   },
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
