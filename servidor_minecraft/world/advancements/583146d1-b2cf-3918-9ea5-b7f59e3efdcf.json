@@ -287,7 +287,10 @@
       "minecraft:birch_forest": "2025-04-05 00:43:20 +0000",
       "minecraft:beach": "2025-04-10 00:10:34 +0000",
       "minecraft:river": "2025-04-12 13:34:08 +0000",
+      "minecraft:stony_shore": "2025-04-12 14:56:17 +0000",
+      "minecraft:cold_ocean": "2025-04-12 14:57:59 +0000",
       "minecraft:forest": "2025-04-05 00:38:59 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-12 14:58:40 +0000",
       "minecraft:ocean": "2025-04-10 00:52:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-12 13:34:38 +0000",
       "minecraft:plains": "2025-04-10 00:23:01 +0000"
@@ -4051,8 +4054,12 @@
       "shrubland": "2025-04-12 13:42:46 +0000",
       "rocky_shrubland": "2025-04-12 13:43:10 +0000",
       "orchard": "2025-04-12 13:41:38 +0000",
+      "field": "2025-04-12 14:56:48 +0000",
       "overgrown_greens": "2025-04-12 13:43:32 +0000",
-      "redwood_forest": "2025-04-12 13:44:02 +0000"
+      "coniferous_forest": "2025-04-12 14:55:34 +0000",
+      "redwood_forest": "2025-04-12 13:44:02 +0000",
+      "pumpkin_patch": "2025-04-12 14:55:45 +0000",
+      "gravel_beach": "2025-04-12 14:57:23 +0000"
     },
     "done": false
   },
@@ -4607,6 +4614,288 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-12 14:37:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-04-12 14:47:21 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/supplychestdeployer": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/transportation/highsproot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-12 14:57:49 +0000"
     },
     "done": true
   },
