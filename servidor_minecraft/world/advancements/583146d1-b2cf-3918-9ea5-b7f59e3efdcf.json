@@ -286,8 +286,10 @@
     "criteria": {
       "minecraft:birch_forest": "2025-04-05 00:43:20 +0000",
       "minecraft:beach": "2025-04-10 00:10:34 +0000",
+      "minecraft:river": "2025-04-12 13:34:08 +0000",
       "minecraft:forest": "2025-04-05 00:38:59 +0000",
       "minecraft:ocean": "2025-04-10 00:52:35 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-12 13:34:38 +0000",
       "minecraft:plains": "2025-04-10 00:23:01 +0000"
     },
     "done": false
@@ -4017,6 +4019,24 @@
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-04-10 01:01:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-04-12 13:32:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-04-12 13:32:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-04-12 13:32:26 +0000"
     },
     "done": true
   },
