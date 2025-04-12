@@ -4320,6 +4320,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-04-12 14:25:19 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2025-04-12 14:18:25 +0000"
