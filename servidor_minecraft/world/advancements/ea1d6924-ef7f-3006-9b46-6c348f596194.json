@@ -6553,6 +6553,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2025-04-12 13:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-04-12 13:48:05 +0000"
@@ -6786,6 +6792,15 @@
       "has_golden_shovel": "2025-04-12 13:48:22 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-04-12 13:56:07 +0000",
+      "rocky_shrubland": "2025-04-12 13:56:27 +0000",
+      "orchard": "2025-04-12 13:55:43 +0000",
+      "overgrown_greens": "2025-04-12 13:56:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
