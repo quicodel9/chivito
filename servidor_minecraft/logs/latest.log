@@ -5930,3 +5930,196 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [19Apr2025 15:37:13.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14706ms or 294 ticks behind
 [19Apr2025 15:37:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [What a Dungeon!]
 [19Apr2025 15:37:42.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13261ms or 265 ticks behind
+[19Apr2025 15:38:07.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10490ms or 209 ticks behind
+[19Apr2025 15:38:18.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaaa
+[19Apr2025 15:38:23.439] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=191, z=150}
+[19Apr2025 15:38:23.440] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:enchanted_golden_apple"}
+[19Apr2025 15:38:23.441] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-179, y=190, z=150}
+[19Apr2025 15:38:23.441] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:diamond"}
+[19Apr2025 15:38:37.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14378ms or 287 ticks behind
+[19Apr2025 15:39:05.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13491ms or 269 ticks behind
+[19Apr2025 15:39:24.062] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[19Apr2025 15:39:24.062] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[19Apr2025 15:39:24.063] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[19Apr2025 15:39:24.063] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[19Apr2025 15:39:24.063] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[19Apr2025 15:39:33.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12828ms or 256 ticks behind
+[19Apr2025 15:39:44.593] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[19Apr2025 15:39:57.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[19Apr2025 15:39:57.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[19Apr2025 15:39:57.322] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[19Apr2025 15:39:57.340] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 15:40:03.239] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=245}
+[19Apr2025 15:40:03.239] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=110, y=-24, z=244}
+[19Apr2025 15:40:03.240] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-24, z=244}
+[19Apr2025 15:40:03.243] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-25, z=248}
+[19Apr2025 15:40:03.243] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=113, y=-23, z=244}
+[19Apr2025 15:40:03.244] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=112, y=-24, z=244}
+[19Apr2025 15:40:04.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16035ms or 320 ticks behind
+[19Apr2025 15:40:05.488] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[19Apr2025 15:40:26.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7463ms or 149 ticks behind
+[19Apr2025 15:40:33.483] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[19Apr2025 15:40:33.483] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[19Apr2025 15:40:33.483] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[19Apr2025 15:40:33.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[19Apr2025 15:40:33.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[19Apr2025 15:40:40.001] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[19Apr2025 15:40:40.001] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[19Apr2025 15:40:40.118] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[19Apr2025 15:40:40.127] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[19Apr2025 15:40:40.128] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[19Apr2025 15:40:40.128] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[19Apr2025 15:40:40.128] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[19Apr2025 15:40:40.128] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[19Apr2025 15:40:40.129] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[19Apr2025 15:40:40.131] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[19Apr2025 15:40:40.132] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[19Apr2025 15:40:40.132] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[19Apr2025 15:40:40.132] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[19Apr2025 15:40:40.133] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[19Apr2025 15:40:45.096] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[19Apr2025 15:40:45.097] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[19Apr2025 15:40:45.098] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[19Apr2025 15:40:45.102] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[19Apr2025 15:40:45.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:62143] logged in with entity id 5413 at (299.653394257119, 70.5625, 123.77506172679793)
+[19Apr2025 15:40:46.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[19Apr2025 15:40:46.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[19Apr2025 15:40:46.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[19Apr2025 15:40:46.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[19Apr2025 15:40:46.005] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[19Apr2025 15:40:46.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[19Apr2025 15:40:46.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[19Apr2025 15:40:46.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[19Apr2025 15:40:46.165] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[19Apr2025 15:40:46.188] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[19Apr2025 15:40:46.190] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[19Apr2025 15:40:46.206] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[19Apr2025 15:40:46.361] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[19Apr2025 15:40:46.361] [Server thread/INFO] [survive/]: Syncing Armor Data
+[19Apr2025 15:40:46.362] [Server thread/INFO] [survive/]: Done with Armors
+[19Apr2025 15:40:46.362] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[19Apr2025 15:40:46.362] [Server thread/INFO] [survive/]: Done with Fluids
+[19Apr2025 15:40:46.363] [Server thread/INFO] [survive/]: Syncing Biome Data
+[19Apr2025 15:40:46.363] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[19Apr2025 15:40:48.754] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[19Apr2025 15:40:49.005] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[19Apr2025 15:40:50.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8836ms or 176 ticks behind
+[19Apr2025 15:41:15.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10284ms or 205 ticks behind
+[19Apr2025 15:41:44.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13309ms or 266 ticks behind
+[19Apr2025 15:41:45.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=77, z=929} BlockPos{x=396, y=75, z=929}
+[19Apr2025 15:41:45.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=77, z=929} BlockPos{x=396, y=75, z=929}
+[19Apr2025 15:42:04.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaaaaaaaaaaa
+[19Apr2025 15:42:12.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[19Apr2025 15:42:12.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[19Apr2025 15:42:12.030] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[19Apr2025 15:42:12.045] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 15:42:17.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18926ms or 378 ticks behind
+[19Apr2025 15:42:39.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6252ms or 125 ticks behind
+[19Apr2025 15:42:40.514] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[19Apr2025 15:42:40.577] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[19Apr2025 15:42:40.640] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[19Apr2025 15:42:40.714] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[19Apr2025 15:42:40.793] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[19Apr2025 15:42:40.854] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[19Apr2025 15:42:40.924] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[19Apr2025 15:42:40.986] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[19Apr2025 15:42:41.047] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[19Apr2025 15:42:41.114] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[19Apr2025 15:42:41.194] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[19Apr2025 15:42:41.262] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[19Apr2025 15:42:42.908] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[19Apr2025 15:42:42.908] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[19Apr2025 15:42:42.962] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[19Apr2025 15:42:43.127] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[19Apr2025 15:42:43.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:62294] logged in with entity id 6393 at (299.653394257119, 70.5625, 123.77506172679793)
+[19Apr2025 15:42:43.952] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[19Apr2025 15:42:43.953] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[19Apr2025 15:42:43.953] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[19Apr2025 15:42:43.954] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[19Apr2025 15:42:43.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[19Apr2025 15:42:43.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[19Apr2025 15:42:43.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[19Apr2025 15:42:44.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[19Apr2025 15:42:44.090] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[19Apr2025 15:42:44.106] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[19Apr2025 15:42:44.108] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[19Apr2025 15:42:44.124] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[19Apr2025 15:42:44.283] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[19Apr2025 15:42:44.284] [Server thread/INFO] [survive/]: Syncing Armor Data
+[19Apr2025 15:42:44.284] [Server thread/INFO] [survive/]: Done with Armors
+[19Apr2025 15:42:44.284] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[19Apr2025 15:42:44.284] [Server thread/INFO] [survive/]: Done with Fluids
+[19Apr2025 15:42:44.285] [Server thread/INFO] [survive/]: Syncing Biome Data
+[19Apr2025 15:42:44.285] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[19Apr2025 15:42:45.596] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[19Apr2025 15:42:45.597] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[19Apr2025 15:43:04.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9903ms or 198 ticks behind
+[19Apr2025 15:43:31.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11894ms or 237 ticks behind
+[19Apr2025 15:43:34.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaa
+[19Apr2025 15:43:42.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[19Apr2025 15:43:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[19Apr2025 15:43:42.104] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[19Apr2025 15:43:42.118] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 15:43:54.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8212ms or 164 ticks behind
+[19Apr2025 15:44:15.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6035ms or 120 ticks behind
+[19Apr2025 15:44:26.187] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[19Apr2025 15:44:26.187] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[19Apr2025 15:44:26.188] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[19Apr2025 15:44:26.188] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[19Apr2025 15:44:26.189] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[19Apr2025 15:44:26.189] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[19Apr2025 15:44:26.189] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[19Apr2025 15:44:26.189] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[19Apr2025 15:44:26.190] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[19Apr2025 15:44:26.190] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[19Apr2025 15:44:26.190] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[19Apr2025 15:44:26.191] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[19Apr2025 15:44:35.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5480ms or 109 ticks behind
+[19Apr2025 15:44:36.536] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[19Apr2025 15:44:36.537] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[19Apr2025 15:44:36.804] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[19Apr2025 15:44:40.669] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[19Apr2025 15:44:41.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:62350] logged in with entity id 6908 at (299.653394257119, 70.5625, 123.77506172679793)
+[19Apr2025 15:44:41.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[19Apr2025 15:44:41.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[19Apr2025 15:44:41.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[19Apr2025 15:44:41.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[19Apr2025 15:44:41.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[19Apr2025 15:44:41.418] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[19Apr2025 15:44:41.419] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[19Apr2025 15:44:41.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[19Apr2025 15:44:41.553] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[19Apr2025 15:44:41.569] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[19Apr2025 15:44:41.572] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[19Apr2025 15:44:41.587] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[19Apr2025 15:44:41.755] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[19Apr2025 15:44:41.755] [Server thread/INFO] [survive/]: Syncing Armor Data
+[19Apr2025 15:44:41.756] [Server thread/INFO] [survive/]: Done with Armors
+[19Apr2025 15:44:41.756] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[19Apr2025 15:44:41.756] [Server thread/INFO] [survive/]: Done with Fluids
+[19Apr2025 15:44:41.756] [Server thread/INFO] [survive/]: Syncing Biome Data
+[19Apr2025 15:44:41.757] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[19Apr2025 15:44:46.316] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[19Apr2025 15:44:46.317] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[19Apr2025 15:44:58.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was laid to rest by Earnest
+[19Apr2025 15:44:58.858] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 15:44:58.859] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[19Apr2025 15:44:58.859] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Apr2025 15:44:58.859] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Apr2025 15:44:58.859] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[19Apr2025 15:45:00.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9553ms or 191 ticks behind
+[19Apr2025 15:45:26.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10930ms or 218 ticks behind
+[19Apr2025 15:45:39.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[19Apr2025 15:45:39.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[19Apr2025 15:45:39.627] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[19Apr2025 15:45:39.641] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 15:45:49.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8337ms or 166 ticks behind
+[19Apr2025 15:46:10.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6214ms or 124 ticks behind
+[19Apr2025 15:46:30.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5343ms or 106 ticks behind
+[19Apr2025 15:46:54.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8504ms or 170 ticks behind
+[19Apr2025 15:47:15.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5760ms or 115 ticks behind
+[19Apr2025 15:47:23.907] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25d3a9f5[id=<null>,name=geotrush,properties={},legacy=false] (/100.84.125.88:62415) lost connection: Disconnected
+[19Apr2025 15:47:37.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7677ms or 153 ticks behind
+[19Apr2025 15:47:42.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS lost connection: Disconnected
+[19Apr2025 15:47:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS left the game
+[19Apr2025 15:47:42.793] [Server thread/INFO] [survive/]: Removing Client (ELROMPECLITOS) From Survive Data Sync List
