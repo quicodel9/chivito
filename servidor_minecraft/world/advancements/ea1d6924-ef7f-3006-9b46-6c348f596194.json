@@ -7423,6 +7423,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 15:19:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/brown_cushion": {
     "criteria": {
       "has_brown_cushion": "2025-04-19 14:58:55 +0000"
