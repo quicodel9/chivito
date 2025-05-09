@@ -8283,9 +8283,89 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-05-09 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/beige_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_stone_bricks": "2025-05-09 18:01:29 +0000",
+      "has_item2_domum_ornamentum_beige_stone_bricks": "2025-05-09 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-05-09 18:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2025-05-09 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-09 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2025-05-09 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-09 18:01:34 +0000"
+    },
+    "done": true
+  },
   "simplyswords:runic_weapon": {
     "criteria": {
       "requirement": "2025-05-09 17:58:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-05-09 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-05-09 18:07:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-09 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-09 18:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-09 18:01:34 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/beige_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_bricks": "2025-05-09 18:01:29 +0000",
+      "has_item2_domum_ornamentum_beige_bricks": "2025-05-09 18:01:29 +0000"
     },
     "done": true
   },
