@@ -2,9 +2,7 @@
 	id: "583146d1-b2cf-3918-9ea5-b7f59e3efdcf"
 	type: "player"
 	player_name: "geotrush"
-	ranks: {
-		583146d1-b2cf-3918-9ea5-b7f59e3efdcf: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "geotrush"
 		"ftbteams:description": ""

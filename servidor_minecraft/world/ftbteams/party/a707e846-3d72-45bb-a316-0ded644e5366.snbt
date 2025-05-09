@@ -2,11 +2,14 @@
 	id: "a707e846-3d72-45bb-a316-0ded644e5366"
 	type: "party"
 	owner: "583146d1-b2cf-3918-9ea5-b7f59e3efdcf"
-	ranks: { }
+	ranks: {
+		583146d1-b2cf-3918-9ea5-b7f59e3efdcf: "owner"
+		ea1d6924-ef7f-3006-9b46-6c348f596194: "member"
+	}
 	properties: {
 		"ftbteams:display_name": "CALMATE CALMATE"
-		"ftbteams:description": ""
-		"ftbteams:color": "#FFA159"
+		"ftbteams:description": "MURILLOOOOOOOO"
+		"ftbteams:color": "#5BFF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
@@ -22,6 +25,10 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [ ]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746816180172L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"geotrush\"}]}" }
+		{ from: "583146d1-b2cf-3918-9ea5-b7f59e3efdcf", date: 1746816180178L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ELROMPECLITOS\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746816191594L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ELROMPECLITOS\"}]}" }
+	]
 	extra: { }
 }
