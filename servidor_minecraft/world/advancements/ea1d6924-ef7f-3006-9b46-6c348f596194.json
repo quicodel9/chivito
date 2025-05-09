@@ -291,6 +291,7 @@
       "minecraft:forest": "2025-04-05 00:37:46 +0000",
       "minecraft:ocean": "2025-04-10 00:23:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-10 00:41:11 +0000",
+      "minecraft:meadow": "2025-05-09 16:02:08 +0000",
       "minecraft:plains": "2025-04-05 01:25:13 +0000"
     },
     "done": false
@@ -1808,6 +1809,7 @@
       "minecraft:pillager": "2025-04-10 00:06:18 +0000",
       "minecraft:skeleton": "2025-04-05 01:27:03 +0000",
       "minecraft:spider": "2025-04-05 01:20:12 +0000",
+      "minecraft:witch": "2025-05-09 16:03:15 +0000",
       "minecraft:zombie": "2025-04-05 00:59:39 +0000"
     },
     "done": false
@@ -7995,6 +7997,18 @@
   "dramaticdoors:recipes/redstone/tall_spruce_door": {
     "criteria": {
       "has_items": "2025-05-09 15:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-09 16:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-09 16:01:03 +0000"
     },
     "done": true
   },
