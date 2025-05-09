@@ -8108,6 +8108,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_the_recipe": "2025-05-09 16:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-09 15:50:11 +0000"
