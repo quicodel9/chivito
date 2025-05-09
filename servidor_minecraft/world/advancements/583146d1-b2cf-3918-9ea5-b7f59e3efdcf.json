@@ -4906,5 +4906,77 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-09 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-09 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-05-09 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-09 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-05-09 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-09 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-05-09 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-09 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-09 16:24:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-05-09 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-09 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-05-09 16:22:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
