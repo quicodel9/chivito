@@ -2686,9 +2686,11 @@
   },
   "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
+      "pants": "2025-05-09 18:20:21 +0000",
+      "helmet": "2025-05-09 18:19:31 +0000",
       "tunic": "2025-04-05 01:06:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "apotheosis:affix/root": {
     "criteria": {
