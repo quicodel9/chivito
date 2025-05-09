@@ -3076,7 +3076,8 @@
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
       "shirt": "2025-04-05 01:23:17 +0000",
-      "helmet": "2025-04-10 00:42:14 +0000"
+      "helmet": "2025-04-10 00:42:14 +0000",
+      "boots": "2025-05-09 15:30:29 +0000"
     },
     "done": false
   },
@@ -7834,21 +7835,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_sheet": {
-    "criteria": {
-      "has_white_sheet": "2025-04-19 15:40:48 +0000"
-    },
-    "done": true
-  },
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-04-19 15:37:38 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/white_cape": {
-    "criteria": {
-      "has_white_wool": "2025-04-19 15:40:48 +0000"
     },
     "done": true
   },
@@ -7863,6 +7852,18 @@
       "entered_large_dungeon": "2025-04-19 15:37:38 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-04-19 15:40:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-04-19 15:40:48 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
@@ -7897,6 +7898,48 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-19 15:40:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-05-09 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-05-09 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-09 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-05-09 15:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-09 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-09 15:31:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-05-09 15:31:20 +0000"
     },
     "done": true
   },
