@@ -5737,27 +5737,21 @@
     },
     "done": true
   },
-  "delightful:recipes/campfire/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-05-10 03:01:49 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-05-10 02:48:51 +0000"
     },
     "done": true
   },
-  "delightful:recipes/smelting/roasted_acorn": {
+  "delightful:recipes/campfire/roasted_acorn": {
     "criteria": {
       "roasted_acorn": "2025-05-10 03:01:49 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+  "delightful:recipes/smelting/roasted_acorn": {
     "criteria": {
-      "has_log": "2025-05-10 03:03:39 +0000"
+      "roasted_acorn": "2025-05-10 03:01:49 +0000"
     },
     "done": true
   },
@@ -5782,6 +5776,12 @@
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2025-05-10 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 03:03:39 +0000"
     },
     "done": true
   },
