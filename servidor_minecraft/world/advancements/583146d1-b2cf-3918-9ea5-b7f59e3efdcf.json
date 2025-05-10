@@ -2643,6 +2643,7 @@
       "minecraft:skeleton": "2025-04-05 01:21:26 +0000",
       "minecraft:spider": "2025-04-05 01:05:51 +0000",
       "minecraft:creeper": "2025-04-10 00:43:20 +0000",
+      "minecraft:witch": "2025-05-10 02:59:38 +0000",
       "minecraft:zombie": "2025-04-05 01:00:05 +0000",
       "minecraft:zombie_villager": "2025-04-12 15:11:46 +0000"
     },
@@ -5736,9 +5737,51 @@
     },
     "done": true
   },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-05-10 03:01:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-05-10 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-05-10 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 03:03:39 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-05-10 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-05-10 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/baklava_no_citrus": {
+    "criteria": {
+      "has_nuts": "2025-05-10 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-05-10 03:01:49 +0000"
     },
     "done": true
   },
