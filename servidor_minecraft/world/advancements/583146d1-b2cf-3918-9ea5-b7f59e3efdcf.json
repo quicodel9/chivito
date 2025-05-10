@@ -5736,5 +5736,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-05-10 02:48:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
