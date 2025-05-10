@@ -8880,6 +8880,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-09 18:47:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2025-05-09 18:58:37 +0000"
@@ -8889,12 +8895,6 @@
   "twigs:recipes/tables/dark_oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-05-09 18:58:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-09 18:47:26 +0000"
     },
     "done": true
   },

@@ -4980,12 +4980,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
     "criteria": {
       "has_item": "2025-05-09 17:42:09 +0000"
@@ -4998,45 +4992,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_barrel": {
-    "criteria": {
-      "has_slabs": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/quiver": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-09 17:51:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/aether_saddle": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
     },
     "done": true
   },
@@ -5046,21 +5004,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/channeling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
     },
     "done": true
   },
@@ -5070,21 +5016,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-05-09 17:53:08 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-05-09 17:50:59 +0000"
     },
     "done": true
   },
@@ -5112,33 +5046,15 @@
     },
     "done": true
   },
-  "dungeons_enhanced:thats_a_dungeon": {
-    "criteria": {
-      "entered_large_dungeon": "2025-05-09 17:59:32 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/building_blocks/lacugrove_bookshelf": {
     "criteria": {
       "has_book": "2025-05-09 17:42:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
   "ancient_aether:recipes/building_blocks/highsproot_bookshelf": {
     "criteria": {
       "has_book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_gloves": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
     },
     "done": true
   },
@@ -5154,21 +5070,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2025-05-09 18:58:40 +0000"
     },
     "done": true
   },
@@ -5184,21 +5088,9 @@
     },
     "done": true
   },
-  "brewinandchewin:recipes/fermenting/kippers": {
-    "criteria": {
-      "has_fish": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2025-05-09 17:59:22 +0000"
     },
     "done": true
   },
@@ -5208,33 +5100,15 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/leather_to_stripes": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-05-09 17:42:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/efficiency_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bamboo_spikes": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-05-09 18:58:40 +0000"
     },
     "done": true
   },
@@ -5256,24 +5130,6 @@
     },
     "done": true
   },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_large_dungeon": "2025-05-09 17:59:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_boots_repairing": {
-    "criteria": {
-      "has_chainmail_boots": "2025-05-09 17:55:40 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackboard": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jellyshroom_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-05-09 17:42:09 +0000"
@@ -5292,27 +5148,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/clibano_core": {
-    "criteria": {
-      "has_blast_furnace": "2025-05-09 18:38:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-05-09 17:53:08 +0000"
     },
     "done": true
   },
@@ -5334,12 +5172,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/brown_cushion": {
-    "criteria": {
-      "has_brown_cushion": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
@@ -5349,24 +5181,6 @@
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_bed": {
-    "criteria": {
-      "has_wool": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-05-09 17:50:59 +0000"
     },
     "done": true
   },
@@ -5394,12 +5208,6 @@
     },
     "done": true
   },
-  "dungeons_enhanced:ambitious_explorer": {
-    "criteria": {
-      "entered_large_dungeon": "2025-05-09 17:59:32 +0000"
-    },
-    "done": false
-  },
   "blue_skies:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2025-05-09 17:42:09 +0000"
@@ -5418,12 +5226,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/shield_repairing": {
-    "criteria": {
-      "has_shield": "2025-05-09 18:36:02 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
@@ -5436,33 +5238,9 @@
     },
     "done": true
   },
-  "twigs:recipes/tables/dark_oak_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
-    "criteria": {
-      "has_brown_wool": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/brown_sheet": {
-    "criteria": {
-      "has_brown_sheet": "2025-05-09 17:50:59 +0000"
     },
     "done": true
   },
@@ -5478,12 +5256,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
-    "criteria": {
-      "minecraft:wooden_slabs": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/sharpness_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
@@ -5493,12 +5265,6 @@
   "betterend:recipes/misc/fortune_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/dark_oak_table": {
-    "criteria": {
-      "has_the_recipe": "2025-05-09 18:58:40 +0000"
     },
     "done": true
   },
@@ -5520,33 +5286,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-09 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-05-09 17:50:59 +0000"
     },
     "done": true
   },
@@ -5562,24 +5304,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-05-09 17:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
@@ -5589,18 +5313,6 @@
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
       "has_item": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/misc/blockconstructiontape": {
-    "criteria": {
-      "has_wool": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bellows": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
     },
     "done": true
   },
@@ -5664,21 +5376,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2025-05-09 17:50:59 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2025-05-09 17:59:22 +0000"
     },
     "done": true
   },
@@ -5694,27 +5394,333 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/trough": {
-    "criteria": {
-      "has_item": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/smite_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/jar": {
+  "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-09 17:42:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/kippers": {
+    "criteria": {
+      "has_fish": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-05-09 17:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-09 17:51:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-09 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-09 17:52:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-09 17:53:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-09 17:53:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-05-09 17:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-09 17:59:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-05-09 17:59:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_large_dungeon": "2025-05-09 17:59:32 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_large_dungeon": "2025-05-09 17:59:32 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-05-09 18:36:02 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/clibano_core": {
+    "criteria": {
+      "has_blast_furnace": "2025-05-09 18:38:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-05-09 18:58:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
+  "supplementaries:recipes/blackboard": {
     "criteria": {
-      "has_book": "2025-05-09 17:42:09 +0000"
+      "minecraft:wooden_slabs": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_the_recipe": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-05-09 18:58:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-05-09 18:58:40 +0000"
     },
     "done": true
   },
@@ -5727,12 +5733,6 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-05-09 18:58:40 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/multishot_book": {
-    "criteria": {
-      "has_item.minecraft.book": "2025-05-09 17:42:09 +0000"
     },
     "done": true
   },
