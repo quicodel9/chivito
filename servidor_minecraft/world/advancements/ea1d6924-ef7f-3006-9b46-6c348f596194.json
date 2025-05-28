@@ -8912,21 +8912,15 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-05-10 02:49:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-05-10 02:51:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-05-10 03:03:04 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-05-10 02:51:36 +0000"
     },
     "done": true
   },
@@ -8936,9 +8930,15 @@
     },
     "done": true
   },
-  "twigs:recipes/tables/spruce_table_slab": {
+  "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
-      "has_bamboo": "2025-05-10 02:49:25 +0000"
+      "has_diamond_boots": "2025-05-10 02:51:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-10 03:03:04 +0000"
     },
     "done": true
   },
