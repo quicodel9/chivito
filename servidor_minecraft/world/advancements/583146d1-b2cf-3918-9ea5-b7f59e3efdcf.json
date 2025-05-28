@@ -5792,5 +5792,23 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-05-28 16:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-28 16:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/eggdrop_soup": {
+    "criteria": {
+      "has_onion": "2025-05-28 16:39:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
