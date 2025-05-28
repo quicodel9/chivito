@@ -288,7 +288,10 @@
       "minecraft:birch_forest": "2025-04-05 00:55:12 +0000",
       "minecraft:beach": "2025-04-05 01:20:07 +0000",
       "minecraft:river": "2025-04-05 01:32:10 +0000",
+      "minecraft:stony_shore": "2025-05-28 16:17:54 +0000",
+      "minecraft:cold_ocean": "2025-05-28 16:19:20 +0000",
       "minecraft:forest": "2025-04-05 00:37:46 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-28 16:19:42 +0000",
       "minecraft:ocean": "2025-04-10 00:23:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-10 00:41:11 +0000",
       "minecraft:meadow": "2025-05-09 16:02:08 +0000",
@@ -3079,10 +3082,11 @@
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
       "shirt": "2025-04-05 01:23:17 +0000",
+      "pants": "2025-05-28 16:28:37 +0000",
       "helmet": "2025-04-10 00:42:14 +0000",
       "boots": "2025-05-09 15:30:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
@@ -6847,6 +6851,7 @@
       "shrubland": "2025-04-12 13:56:07 +0000",
       "rocky_shrubland": "2025-04-12 13:56:27 +0000",
       "orchard": "2025-04-12 13:55:43 +0000",
+      "field": "2025-05-28 16:17:23 +0000",
       "overgrown_greens": "2025-04-12 13:56:55 +0000",
       "coniferous_forest": "2025-05-10 03:02:18 +0000",
       "redwood_forest": "2025-04-12 14:42:52 +0000",
