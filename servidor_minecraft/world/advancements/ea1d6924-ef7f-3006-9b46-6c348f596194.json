@@ -9001,12 +9001,6 @@
     },
     "done": true
   },
-  "voidtotem:recipes/combat/totem_of_void_undying": {
-    "criteria": {
-      "has_totem": "2025-05-28 16:12:51 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-05-28 16:12:41 +0000"
@@ -9028,6 +9022,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
     "criteria": {
       "has_item": "2025-05-28 16:12:41 +0000"
+    },
+    "done": true
+  },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_totem": "2025-05-28 16:12:51 +0000"
     },
     "done": true
   },
