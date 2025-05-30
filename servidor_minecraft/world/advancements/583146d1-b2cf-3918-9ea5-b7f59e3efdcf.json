@@ -5798,12 +5798,6 @@
     },
     "done": true
   },
-  "minecolonies:recipes/food/baked_salmon": {
-    "criteria": {
-      "has_garlic": "2025-05-28 16:55:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-05-28 16:39:50 +0000"
@@ -5813,6 +5807,12 @@
   "minecolonies:recipes/food/eggdrop_soup": {
     "criteria": {
       "has_onion": "2025-05-28 16:39:50 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/baked_salmon": {
+    "criteria": {
+      "has_garlic": "2025-05-28 16:55:12 +0000"
     },
     "done": true
   },
