@@ -287,6 +287,7 @@
       "minecraft:deep_ocean": "2025-04-12 13:53:25 +0000",
       "minecraft:birch_forest": "2025-04-05 00:55:12 +0000",
       "minecraft:beach": "2025-04-05 01:20:07 +0000",
+      "minecraft:dark_forest": "2025-05-28 16:48:13 +0000",
       "minecraft:river": "2025-04-05 01:32:10 +0000",
       "minecraft:stony_shore": "2025-05-28 16:17:54 +0000",
       "minecraft:cold_ocean": "2025-05-28 16:19:20 +0000",
@@ -6850,6 +6851,7 @@
     "criteria": {
       "shrubland": "2025-04-12 13:56:07 +0000",
       "rocky_shrubland": "2025-04-12 13:56:27 +0000",
+      "highland": "2025-05-28 16:52:26 +0000",
       "orchard": "2025-04-12 13:55:43 +0000",
       "field": "2025-05-28 16:17:23 +0000",
       "overgrown_greens": "2025-04-12 13:56:55 +0000",
@@ -9028,6 +9030,18 @@
   "voidtotem:recipes/combat/totem_of_void_undying": {
     "criteria": {
       "has_totem": "2025-05-28 16:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-28 16:55:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-05-28 16:51:29 +0000"
     },
     "done": true
   },
