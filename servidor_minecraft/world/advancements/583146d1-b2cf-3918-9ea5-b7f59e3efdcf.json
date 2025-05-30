@@ -6062,5 +6062,11 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-05-30 02:57:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
