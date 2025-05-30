@@ -9045,9 +9045,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-05-30 01:55:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-30 01:57:05 +0000"
     },
     "done": true
   },
@@ -9057,9 +9111,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-30 01:30:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-05-30 01:57:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
     },
     "done": true
   },
@@ -9069,15 +9171,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-30 01:30:39 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_andesite_pillar_trim": "2025-05-30 01:30:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
     },
     "done": true
   },
@@ -9099,6 +9243,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-30 01:30:39 +0000"
@@ -9111,6 +9267,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-30 01:30:39 +0000"
@@ -9120,6 +9282,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-30 01:30:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-30 01:57:59 +0000"
     },
     "done": true
   },
