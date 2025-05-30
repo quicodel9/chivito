@@ -6002,15 +6002,57 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-05-30 02:31:00 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-05-30 02:28:09 +0000"
     },
     "done": true
   },
+  "minecolonies:recipes/food/mint_tea": {
+    "criteria": {
+      "has_mint": "2025-05-30 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-30 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_efficiency": {
+    "criteria": {
+      "hammer_efficiency": "2025-05-30 02:31:09 +0000"
+    },
+    "done": false
+  },
+  "minecolonies:recipes/food/mint_jelly": {
+    "criteria": {
+      "has_mint": "2025-05-30 02:37:42 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/spruce_table_slab": {
     "criteria": {
       "has_bamboo": "2025-05-30 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2025-05-30 02:31:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-30 02:34:37 +0000"
     },
     "done": true
   },
