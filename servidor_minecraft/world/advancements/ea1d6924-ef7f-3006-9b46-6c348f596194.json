@@ -9111,6 +9111,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-30 02:13:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-05-30 01:57:34 +0000"
@@ -9255,11 +9261,23 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2025-05-30 02:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-30 01:30:39 +0000"
     },
     "done": true
+  },
+  "tetra:spelunking/find_scroll_expertise": {
+    "criteria": {
+      "metal_expertise": "2025-05-30 02:13:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
