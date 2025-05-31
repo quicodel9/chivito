@@ -6378,6 +6378,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-05-31 04:31:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6439,6 +6445,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-05-31 04:31:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_hoe_repairing": {
     "criteria": {
       "has_iron_hoe": "2025-05-31 03:42:34 +0000"
@@ -6466,6 +6478,12 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-05-31 03:45:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-31 04:34:14 +0000"
     },
     "done": true
   },
@@ -6568,6 +6586,12 @@
   "georenouveau:recipes/misc/gold_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-05-31 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 04:33:34 +0000"
     },
     "done": true
   },
@@ -6769,6 +6793,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-05-31 04:31:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
@@ -6781,9 +6811,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-05-31 04:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-31 04:31:46 +0000"
     },
     "done": true
   },
@@ -6817,9 +6859,21 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_iron_door": {
+    "criteria": {
+      "has_items": "2025-05-31 04:34:19 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/magenta_brick_extra": {
     "criteria": {
       "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_iron_door": {
+    "criteria": {
+      "has_items": "2025-05-31 04:34:19 +0000"
     },
     "done": true
   },
@@ -6847,9 +6901,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-05-31 04:31:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-05-31 04:31:46 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/black_brick_extra": {
     "criteria": {
       "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-31 04:31:46 +0000"
     },
     "done": true
   },
@@ -6862,6 +6934,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-31 04:31:46 +0000"
     },
     "done": true
   },
