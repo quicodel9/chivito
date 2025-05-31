@@ -6062,6 +6062,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-05-30 02:57:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-30 03:23:06 +0000"
@@ -6074,25 +6080,19 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-05-30 03:30:39 +0000"
-    },
-    "done": true
-  },
   "georenouveau:recipes/misc/lapis_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-05-30 03:23:06 +0000"
     },
     "done": true
   },
-  "apotheosis:enchanting/bookshelf": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "bookshelf": "2025-05-30 02:57:31 +0000"
+      "has_lapis_lazuli": "2025-05-30 03:23:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-30 03:23:06 +0000"
     },
@@ -6104,9 +6104,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/lapis_bricks": {
+  "apotheosis:enchanting/30ench": {
     "criteria": {
-      "has_lapis_lazuli": "2025-05-30 03:23:06 +0000"
+      "enchanted_item": "2025-05-30 03:30:39 +0000"
     },
     "done": true
   },
