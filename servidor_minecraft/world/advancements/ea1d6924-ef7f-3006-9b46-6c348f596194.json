@@ -9396,6 +9396,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-05-31 01:14:56 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_stonecutting": {
     "criteria": {
       "has_item": "2025-05-31 00:47:41 +0000"
@@ -9435,6 +9441,12 @@
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2025-05-31 00:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-31 01:14:56 +0000"
     },
     "done": true
   },
