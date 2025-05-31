@@ -1,0 +1,6 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "dungeons_and_combat:raw_silver","required": false}
+    ]
+}

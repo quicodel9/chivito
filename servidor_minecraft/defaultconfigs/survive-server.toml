@@ -1,14 +1,26 @@
 
-[Temperature]
+[Miscellaneous]
 	#
 	############################################
-	#This list defines dimensional temperature modifiers
-	#Dimensions in this list will multiply the tempeatures of their biomes by this value.
-	#Values here should typically be between 2 (hot) and -2 (cold) but they can be anything
+	#Can the status book be crafted from a written book and a thermometer in this world?
 	#-------------------------------------------
-	#Default: [minecraft:overworld,0.0, minecraft:the_nether,0.0, minecraft:the_end,0.0]
+	#Default: true
 	#-------------------------------------------
-	"Dimensional Temperature Modifier" = ["minecraft:overworld,0.0", "minecraft:the_nether,0.0", "minecraft:the_end,0.0"]
+	"Boolean: Status Book Crafting" = true
+	#
+	############################################
+	#Should Animal Fat drop from animals upon death?
+	#-------------------------------------------
+	#Default: true
+	#-------------------------------------------
+	"Boolean: Animal Fat Drops" = true
+	#
+	############################################
+	#Should the purified water cauldron revert back to a water cauldron when no longer underneath a campfire?
+	#-------------------------------------------
+	#Default: false
+	#-------------------------------------------
+	"Boolean: Should Purified Water Cauldron Revert" = false
 
 ["Hunger & Thirst"]
 	#
@@ -20,26 +32,14 @@
 	#Allowed Values: DOUBLED, LIMITED, VANILLA
 	"Enum: Expanded Stomach Capacity" = "LIMITED"
 
-[Miscellaneous]
+[Temperature]
 	#
 	############################################
-	#Should the purified water cauldron revert back to a water cauldron when no longer underneath a campfire?
+	#This list defines dimensional temperature modifiers
+	#Dimensions in this list will multiply the tempeatures of their biomes by this value.
+	#Values here should typically be between 2 (hot) and -2 (cold) but they can be anything
 	#-------------------------------------------
-	#Default: false
+	#Default: [minecraft:overworld,0.0, minecraft:the_nether,0.0, minecraft:the_end,0.0]
 	#-------------------------------------------
-	"Boolean: Should Purified Water Cauldron Revert" = false
-	#
-	############################################
-	#Should Animal Fat drop from animals upon death?
-	#-------------------------------------------
-	#Default: true
-	#-------------------------------------------
-	"Boolean: Animal Fat Drops" = true
-	#
-	############################################
-	#Can the status book be crafted from a written book and a thermometer in this world?
-	#-------------------------------------------
-	#Default: true
-	#-------------------------------------------
-	"Boolean: Status Book Crafting" = true
+	"Dimensional Temperature Modifier" = ["minecraft:overworld,0.0", "minecraft:the_nether,0.0", "minecraft:the_end,0.0"]
 

@@ -24,6 +24,16 @@
       "entityId": "celestisynth:star_monolith",
       "dimension": "minecraft:overworld",
       "spawn_chance": 0.01
+    },
+        {
+      "entityId": "dungeons_and_combat:remanent",
+      "dimension": "minecraft:overworld",
+      "spawn_chance": 0.01
+    },
+        {
+      "entityId": "dungeons_and_combat:hermit_witch",
+      "dimension": "minecraft:overworld",
+      "spawn_chance": 0.04
     }
   ],
   // Don't touch this!

@@ -336,5 +336,11 @@
     },
     "de.maxhenkel.corpse.gui.CorpseInventoryContainer": {
         "ignore": true
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "ignore": true
+    },
+    "com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu": {
+        "ignore": true
     }
 }

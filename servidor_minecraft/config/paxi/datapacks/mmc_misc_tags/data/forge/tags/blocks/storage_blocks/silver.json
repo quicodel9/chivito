@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "samurai_dynasty:silver_block","required": false},
+        {"id": "dungeons_and_combat:silver_block","required": false}
+    ]
+}

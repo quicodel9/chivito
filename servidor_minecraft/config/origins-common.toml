@@ -320,6 +320,7 @@
 		"medievalorigins:high_elf/subclass_picker" = true
 		"medievalorigins:high_elf/void_warp" = true
 		"medievalorigins:high_elf/blazenbreath" = true
+		"medievalorigins:high_elf/instant_cure" = true
 
 	[origins."medievalorigins:valkyrie"]
 		enabled = true

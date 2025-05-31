@@ -2,10 +2,11 @@
 	"enableLootDrops": true,
 	"enableLootInVillages": false,
 	"enableTheWatcher": true,
-	"standardLootTableWeight": 0.01,
-	"rareLootTableWeight": 0.01,
-	"runicLootTableWeight": 0.01,
+	"standardLootTableWeight": 0.009999999776482582,
+	"rareLootTableWeight": 0.009999999776482582,
+	"runicLootTableWeight": 0.009999999776482582,
 	"uniqueLootTableWeight": 0.0,
+	"enableContainedRemnants": true,
 	"enableWatchingWarglaive": true,
 	"enableLongswordOfThePlague": true,
 	"enableSwordOnAStick": true,
@@ -38,5 +39,6 @@
 	"enableWickpiercer": true,
 	"enableTempest": true,
 	"enableFlamewind": true,
-	"enableRibboncleaver": true
+	"enableRibboncleaver": true,
+	"enableCaelestis": true
 }

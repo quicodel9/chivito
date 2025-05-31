@@ -10,13 +10,14 @@
 	"Have Illagers have some common sense?" = true
 
 ["mob ai in general"]
-	#Guards will attack all hostiles with this option
+	#Guards will attack all hostiles with this option, when set to false guards will only attack zombies and illagers.
 	"Guards attack all mobs?" = false
-	#Guards won't attack mobs in this list if AttackAllMobs is enabled, for example, putting "minecraft:creeper" in this list will make guards ignore creepers.
-	"Mob BlackList" = [
-		   "minecraft:creeper",
-      "minecraft:ravager"
-	]
+	#Hostiles attack guards, by default only illagers and zombies will attack guards, the mob blacklist below will effect this option
+	"All mobs attack guards" = false
+	#Guards won't attack mobs in this list at all, for example, putting "minecraft:creeper" in this list will make guards ignore creepers.
+	"Mob Blacklist" = ["minecraft:villager", "minecraft:iron_golem", "minecraft:wandering_trader", "guardvillagers:guard", "minecraft:creeper", "alexsmobs:komodo_dragon", "minecraft:enderman"]
+	#Guards will additionally attack mobs ids put in this list, for example, putting "minecraft:cow" in this list will make guards attack cows.
+	"Mob Whitelist" = []
 
 ["villager stuff"]
 	"Allow armorers and weaponsmiths repair guard items when down below half durability?" = true
@@ -36,8 +37,6 @@
 	"Have Guards raise their shield all the time?" = false
 	#This makes guards form a phalanx
 	"Have guards form a phalanx?" = true
-	#This will make guards attempt to avoid friendly fire.
-	"Have guards attempt to avoid firing into other friendlies? (Experimental)" = false
 	#This is the range in which the guards will be aggroed to mobs that are attacking villagers. Higher values are more resource intensive, and setting this to zero will disable the goal.
 	#Range: -500.0 ~ 500.0
 	Range = 50.0
@@ -58,4 +57,15 @@
 	"Have guards only follow the player if they have hero of the village?" = true
 	#Range: -9999 ~ 9999
 	"How low of a reputation of a player should have to be instantly aggroed upon by guards and golems?" = -100
+	"Allow the player to right click on bells to mass order guards to follow them?" = true
+	"Have guards patrol the village regularly?" = false
+	#Range: -999.9000244140625 ~ 999.0
+	"Chance to drop equipment" = 100.0
+	#Range: -999.9000244140625 ~ 999.0
+	"Chance for guards to lose durability" = 1.0
+	"Allow guards to teleport if following the player" = true
+	"Have guards attempt to avoid firing into other friendlies?" = true
+
+["golem stuff"]
+	"Allow Iron Golems to float on water?" = true
 

@@ -8,7 +8,7 @@
 		fullscreen = "WINDOWED"
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
-		#Allowed Values: OFF, SIMPLE, ADVANCED
+		#Allowed Values: OFF, SIMPLE, ADVANCED, FRAMETIME
 		fpsDisplay = "OFF"
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
@@ -105,7 +105,6 @@
 
 			[xenonextras.performance.distanceCulling.entities]
 				#Toggles distance culling for entities
-				#Maybe you use another mod for that :(
 				enable = true
 				#Configure horizontal max distance before cull entities
 				#Value is squared, default was 64^2 (or 64x64)
@@ -120,6 +119,10 @@
 				#Example 1: "minecraft:bat" - Ignores bats only
 				#Example 2: "alexsmobs:*" - ignores all entities for alexmobs mod
 				whitelist = ["minecraft:ghast", "minecraft:ender_dragon", "iceandfire:*", "create:*"]
+				#Configure modifier applied to hostile entities
+				#Value is raw, 50% - 200%
+				#Range: 25 ~ 200
+				hostileEntityModifier = 100
 
 	[xenonextras.others]
 		#Configure if borderless fullscreen option should be attached to F11 or replace vanilla fullscreen

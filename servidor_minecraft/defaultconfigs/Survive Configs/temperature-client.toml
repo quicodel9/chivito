@@ -18,7 +18,7 @@
 #-------------------------------------------
 #Default: true
 #-------------------------------------------
-"Boolean: Hypo/Hyperthermia Effects" = false
+"Boolean: Hypo/Hyperthermia Effects" = true
 #
 ############################################
 #The method that temperature display with

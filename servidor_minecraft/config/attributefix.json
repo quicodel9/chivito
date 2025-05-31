@@ -88,6 +88,17 @@
         "value": 100
       }
     },
+    "alshanex_familiars:sound_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "attributeslib:armor_shred": {
       "enabled": false,
       "min": {
@@ -284,6 +295,17 @@
       "max": {
         "default": 128,
         "value": 128
+      }
+    },
+    "alshanex_familiars:sound_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "additionalentityattributes:lung_capacity": {

@@ -85,6 +85,8 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
+		"dungeons_and_combat:silver_ore": "iceandfire:silver_ore",
+	   	"dungeons_and_combat:silver_deepslate_ore": "iceandfire:deepslate_silver_ore",
 		"samurai_dynasty:silver_ore": "iceandfire:silver_ore",
 	   	"samurai_dynasty:deepslate_silver_ore": "iceandfire:deepslate_silver_ore",
 		"eidolon:silver_ore": "iceandfire:silver_ore",

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        {"id": "dungeons_and_combat:silver_deepslate_ore","required": false},
+        {"id": "dungeons_and_combat:silver_ore","required": false}
+    ]
+}

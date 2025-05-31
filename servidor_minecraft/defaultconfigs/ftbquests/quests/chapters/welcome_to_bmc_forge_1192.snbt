@@ -472,7 +472,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Used to add or reroll attributes and sockets to gear, up to &9Rare&r. \\n\\nFor more info like higher rarities or improving individual stats, read the &5Chronicle of Shadows"
+			subtitle: "Used to add or reroll attributes and sockets to gear, up to &9Rare&r. \\n\\nTo reforge higher rarities, you'll need a &5Reforging Table&r or &dAncient Reforging Table&r.\\n\\nFor more information read the &6Chronicle of Shadows&r"
 			tasks: [{
 				id: "42C32A562238353C"
 				item: "apotheosis:simple_reforging_table"

@@ -3,7 +3,8 @@
     "minecraft",
     "iceandfire",
     "eidolon",
-    "samurai_dynasty"
+    "samurai_dynasty",
+    "dungeons_and_combat"
   ],
   "stoneStrata": [
     "stone",
@@ -28,7 +29,8 @@
     "forge:storage_blocks/raw_{material}"
   ],
   "materials": [
-    "silver"
+    "silver",
+    "steel"
   ],
   "priorityOverrides": {},
   "customTags": {},

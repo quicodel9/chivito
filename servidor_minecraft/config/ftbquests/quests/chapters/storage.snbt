@@ -75,7 +75,7 @@
 				random_bonus: 3
 				type: "item"
 			}]
-			subtitle: "Combine it with a &9Standard Traveler's Backpack &7in a &6smithing table. &r\\nEach tier adds an extra row of space."
+			subtitle: "Combine it with a &9Standard Traveler's Backpack &7in a &5smithing table&r, with &6leather&r as the template, to get more inventory and upgrade slots."
 			tasks: [{
 				id: "66F66529D2B2BA22"
 				item: "travelersbackpack:iron_tier_upgrade"
@@ -95,7 +95,7 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Combine it with an &2Iron Traveler's Backpack &7in a &6smithing table"
+			subtitle: "Combine it with an &8Iron Traveler's Backpack &7in a &5smithing table&r, with &6leather&r as the template, to get more inventory and upgrade slots."
 			tasks: [{
 				id: "0D9F4927EE11277B"
 				item: "travelersbackpack:gold_tier_upgrade"
@@ -113,7 +113,7 @@
 				item: "minecraft:netherite_scrap"
 				type: "item"
 			}]
-			subtitle: "Combine it with a &3Gold Traveler's Backpack &7in a &6smithing table"
+			subtitle: "Combine it with a &6Gold Traveler's Backpack &7in a &5smithing table&r, with &6leather&r as the template, to get more inventory and upgrade slots."
 			tasks: [{
 				id: "37C9A53347444B31"
 				item: "travelersbackpack:diamond_tier_upgrade"
@@ -140,7 +140,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Combine it with a &8Diamond Traveler's Backpack &7in a &6smithing table"
+			subtitle: "Combine it with a &bDiamond Traveler's Backpack &7in a &5smithing table&r, with &6leather&r as the template, to get more inventory and upgrade slots."
 			tasks: [{
 				id: "62425F75B0B0D2DA"
 				item: "travelersbackpack:netherite_tier_upgrade"
@@ -151,6 +151,7 @@
 			y: -4.5d
 		}
 		{
+			dependencies: ["2252ACBB97526BB2"]
 			id: "5BCF9D61C52EABCC"
 			rewards: [
 				{
@@ -164,15 +165,15 @@
 					type: "item"
 				}
 			]
-			subtitle: "Gives acces to your items. Place it on a storage block, or on an &3Inventory Connector&r to access all connected storage blocks"
+			subtitle: "Gives access to items. Place it on a storage block, or on an &3Inventory Connector&r to access all connected storage blocks"
 			tasks: [{
 				id: "2528750EFAB1927A"
 				item: "toms_storage:ts.storage_terminal"
 				type: "item"
 			}]
 			title: "Craft the &6Storage Terminal"
-			x: 1.5d
-			y: -11.0d
+			x: 0.5d
+			y: -9.5d
 		}
 		{
 			id: "2252ACBB97526BB2"
@@ -181,21 +182,18 @@
 				type: "xp_levels"
 				xp_levels: 3
 			}]
-			subtitle: "Connects all of touching inventories into one, upto 16 blocks away. Use the &6Storage Terminal &7to acces all of your items."
+			subtitle: "Connects to all adjacent or consecutive storage blocks, up to 16 blocks away. Place a &6Storage Terminal &7on it to access the connected items"
 			tasks: [{
 				id: "1DBC99A784EB4C96"
 				item: "toms_storage:ts.inventory_connector"
 				type: "item"
 			}]
 			title: "Craft an &3Inventory Connector"
-			x: -0.5d
-			y: -11.0d
+			x: 0.5d
+			y: -8.0d
 		}
 		{
-			dependencies: [
-				"2252ACBB97526BB2"
-				"5BCF9D61C52EABCC"
-			]
+			dependencies: ["5BCF9D61C52EABCC"]
 			id: "411FE795DBEB8033"
 			rewards: [{
 				id: "2B14496A4C61411B"
@@ -209,8 +207,8 @@
 				type: "item"
 			}]
 			title: "Craft some &6Inventory Cable"
-			x: 0.5d
-			y: -9.5d
+			x: 1.5d
+			y: -11.0d
 		}
 		{
 			dependencies: ["411FE795DBEB8033"]
@@ -228,15 +226,15 @@
 					type: "item"
 				}
 			]
-			subtitle: "Used to connect individual storage blocks to the Inventory Network. "
+			subtitle: "Used to connect &dsingle&r storage blocks to the Inventory Network via cable. \\n\\nTo connect all adjacent chests at the destination, use an &6Inventory Connector&r instead"
 			tasks: [{
 				id: "324C9EECB1BCFE3E"
 				item: "toms_storage:ts.inventory_cable_connector"
 				type: "item"
 			}]
 			title: "Craft an &6Inventory Cable Connector"
-			x: 0.5d
-			y: -8.0d
+			x: 3.0d
+			y: -9.5d
 		}
 		{
 			dependencies: ["5BCF9D61C52EABCC"]
@@ -260,11 +258,11 @@
 				type: "item"
 			}]
 			title: "Craft a &6Crafting Terminal"
-			x: 3.0d
-			y: -9.5d
+			x: -0.5d
+			y: -11.0d
 		}
 		{
-			dependencies: ["2252ACBB97526BB2"]
+			dependencies: ["123097813B579C3E"]
 			id: "2A1BA4AAA2162ECE"
 			rewards: [
 				{
@@ -330,7 +328,20 @@
 		}
 		{
 			id: "1B420DB321E7344B"
-			subtitle: "Attach this to your &3Traveler's Backpack&r in a &8Smithing Table&r to be able to use a 3x3 crafting menu anywhere!"
+			rewards: [{
+				id: "34F2D54306685E05"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "twilightdelight:torchberry_cookie"
+				}
+				type: "item"
+			}]
+			subtitle: "Attach this to your &3Traveler's Backpack&r on the &dright side of the backpack inventory&r to be able to use a 3x3 crafting menu anywhere!"
 			tasks: [{
 				id: "5E1801C063FBCDA5"
 				item: "travelersbackpack:crafting_upgrade"
@@ -342,6 +353,23 @@
 		}
 		{
 			id: "615E1659938E97A1"
+			rewards: [{
+				count: 4
+				id: "64E798E0A79B7BB9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:tipped_arrow"
+					tag: {
+						Potion: "goblintraders:extended_water_breathing"
+					}
+				}
+				type: "item"
+			}]
 			subtitle: "This convenient attachment will allow you to drink directly from fluids placed into your &3Traveler's Backpack&r (check your keybinds!)"
 			tasks: [{
 				id: "575404470FCC26B7"
@@ -349,6 +377,122 @@
 				type: "item"
 			}]
 			title: "Craft a &2Backpack Hose&r"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			id: "6DE36A13A0334952"
+			subtitle: "Like a &8hopper&r, but instead of picking up item entities, it only takes input from the &6storage block or network&r it's &dopening&r is facing. \\n\\nA &6filter&r can be added by right clicking with the item you want it to exclusively take."
+			tasks: [{
+				id: "57DEF8919245F6D6"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "toms_storage:ts.inventory_hopper_basic"
+				}
+				type: "item"
+			}]
+			title: "Craft a &6Basic Inventory Hopper&r"
+			x: 3.0d
+			y: -8.0d
+		}
+		{
+			id: "6E3DC763F6F1B001"
+			rewards: [{
+				id: "30309EB41521F01C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "aetherdelight:oat_cookie"
+				}
+				type: "item"
+			}]
+			subtitle: "Attach this to your &3Traveler's Backpack&r on the &dright side&r of the &3backpack inventory&r to pull in nearby items every few seconds. Has a radius of about 4 blocks"
+			tasks: [{
+				id: "286D8BC99E40CEE3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "travelersbackpack:magnet_upgrade"
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			id: "38A9950FD4D24A73"
+			rewards: [{
+				id: "25F565041A6414FD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "farmersdelight:honey_cookie"
+				}
+				type: "item"
+			}]
+			subtitle: "Attach this to your &3Traveler's Backpack&r on the &dright side&r of the &3backpack inventory&r to delete items entering the backpack. Particularly useful when combined with the &6Pickup Upgrade&r.\\n\\nIn &4Block&r mode, all items &4except&r those in the 3x3 grid will be voided (&4&lBe Careful!&r). \\n\\nIn &aAllow&r Mode, &aonly&r items in the 3x3 grid will be voided.\\n\\nIn &6Match Contents&r mode, only items matching those &6already in your&r &3backpack&r will be voided."
+			tasks: [{
+				id: "714DBBD67E0FF231"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "travelersbackpack:void_upgrade"
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			id: "2338ACC9F38C175B"
+			rewards: [{
+				id: "43D0ED89568F35E7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "endersdelight:uncanny_cookies"
+				}
+				type: "item"
+			}]
+			subtitle: "Attach this to your &3Traveler's Backpack&r on the &dright side&r of the &3backpack inventory&r to transfer picked up items into the backpack. \\n\\nIn &4Block&r mode, all items &4except&r those in the 3x3 grid will be moved. \\n\\nIn &aAllow&r Mode, &aonly&r items in the 3x3 grid will be moved.\\n\\nIn &6Match Contents&r mode, only items &6already in your&r &3backpack&r will be moved."
+			tasks: [{
+				id: "5ABBD31930E761D2"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "travelersbackpack:pickup_upgrade"
+				}
+				type: "item"
+			}]
 			x: -2.5d
 			y: -6.0d
 		}

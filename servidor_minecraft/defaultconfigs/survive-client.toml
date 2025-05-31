@@ -6,5 +6,5 @@
 	#-------------------------------------------
 	#Default: true
 	#-------------------------------------------
-	"Boolean: Enable Tired Overlay" = true
+	"Boolean: Enable Tired Overlay" = false
 
