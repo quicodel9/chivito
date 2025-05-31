@@ -7094,5 +7094,11 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 23:08:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
