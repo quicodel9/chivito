@@ -2642,6 +2642,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-31 02:23:27 +0000",
       "minecraft:skeleton": "2025-04-05 01:21:26 +0000",
+      "minecraft:hoglin": "2025-05-31 04:35:42 +0000",
       "minecraft:vindicator": "2025-05-31 03:41:36 +0000",
       "minecraft:spider": "2025-04-05 01:05:51 +0000",
       "minecraft:creeper": "2025-04-10 00:43:20 +0000",
@@ -6403,6 +6404,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/misc/steeleaf_knife": {
+    "criteria": {
+      "has_steeleaf_ingot": "2025-05-31 04:41:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 03:24:38 +0000"
@@ -6487,6 +6494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-31 04:34:36 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/misc/eyebomination": {
     "criteria": {
       "has_item": "2025-05-31 03:52:54 +0000"
@@ -6535,6 +6548,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-05-31 04:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-05-31 04:23:26 +0000"
@@ -6550,6 +6569,12 @@
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-05-31 04:07:15 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-05-31 04:36:07 +0000"
     },
     "done": true
   },
@@ -6589,9 +6614,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/potato_soup": {
+    "criteria": {
+      "has_potato": "2025-05-31 04:34:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_boots_repairing": {
     "criteria": {
       "has_diamond_boots": "2025-05-31 04:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-31 04:34:36 +0000"
     },
     "done": true
   },
@@ -6697,6 +6734,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 04:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6793,6 +6836,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-05-31 04:36:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:31:46 +0000"
@@ -6823,6 +6872,12 @@
     },
     "done": true
   },
+  "umbral_skies:recipes/combat/steeleaf_gloves": {
+    "criteria": {
+      "has_item": "2025-05-31 04:41:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-31 04:31:46 +0000"
@@ -6832,6 +6887,12 @@
   "georenouveau:recipes/misc/redstone_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-05-31 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-05-31 04:36:07 +0000"
     },
     "done": true
   },
@@ -6850,6 +6911,12 @@
   "betterend:recipes/misc/gold_chandelier": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 04:36:07 +0000"
     },
     "done": true
   },
@@ -6880,6 +6947,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-31 04:34:36 +0000"
     },
     "done": true
   },
@@ -6931,6 +7004,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-05-31 04:41:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6967,6 +7046,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2025-05-31 04:41:31 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/traveler_necklace": {
     "criteria": {
       "has_feather": "2025-05-31 04:03:24 +0000"
@@ -6976,6 +7061,12 @@
   "domum_ornamentum:recipes/tools/brown_brick_extra": {
     "criteria": {
       "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/vodka_from_water": {
+    "criteria": {
+      "has_potato": "2025-05-31 04:34:36 +0000"
     },
     "done": true
   },
