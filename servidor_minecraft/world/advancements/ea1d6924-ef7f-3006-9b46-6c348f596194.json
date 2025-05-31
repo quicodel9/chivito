@@ -9344,57 +9344,33 @@
     },
     "done": true
   },
-  "apotheotic_additions:affix/materials": {
+  "supplementaries:recipes/globe_sepia": {
     "criteria": {
-      "material": "2025-05-31 00:56:48 +0000"
+      "has_antique_ink": "2025-05-31 00:38:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
-      "has_emerald_block": "2025-05-31 02:14:36 +0000"
+      "has_iron_sword": "2025-05-31 00:42:40 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_item": "2025-05-31 02:22:56 +0000"
+      "lava_bucket": "2025-05-31 00:46:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+  "mynethersdelight:recipes/cooking/hotcream": {
     "criteria": {
-      "has_item": "2025-05-31 02:22:56 +0000"
+      "has_any_ingredient": "2025-05-31 00:46:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
-      "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-05-31 00:52:57 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-05-31 02:17:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
-    "criteria": {
-      "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "apotheotic_additions:affix/simple_reforging_table": {
-    "criteria": {
-      "material": "2025-05-31 00:56:37 +0000"
+      "has_lava_bucket": "2025-05-31 00:46:22 +0000"
     },
     "done": true
   },
@@ -9410,51 +9386,9 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-05-31 00:46:22 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_sword_repairing": {
-    "criteria": {
-      "has_iron_sword": "2025-05-31 00:42:40 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-05-31 00:47:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
-    "criteria": {
-      "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-05-31 02:04:54 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2025-05-31 02:17:45 +0000"
     },
     "done": true
   },
@@ -9464,57 +9398,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
-    "criteria": {
-      "has_item": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2025-05-31 02:17:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanting_stats": {
-    "criteria": {
-      "enchanted_item": "2025-05-31 01:14:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/tuff/polished_tuff_stonecutting": {
     "criteria": {
       "has_item": "2025-05-31 00:47:41 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
-    "criteria": {
-      "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/tuff/tuff_stairs": {
     "criteria": {
       "has_item": "2025-05-31 00:47:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/diamond_axe_repairing": {
-    "criteria": {
-      "has_diamond_axe": "2025-05-31 02:04:58 +0000"
     },
     "done": true
   },
@@ -9530,15 +9422,93 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/hotcream": {
+  "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
-      "has_any_ingredient": "2025-05-31 00:46:22 +0000"
+      "has_item": "2025-05-31 00:47:41 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+  "simplyswords:simplyswords": {
     "criteria": {
-      "has_lava_bucket": "2025-05-31 00:46:22 +0000"
+      "requirement": "2025-05-31 00:47:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-05-31 00:52:57 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:main/apotheotic_coin": {
+    "criteria": {
+      "inventory_changed": "2025-05-31 00:56:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-05-31 00:56:33 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:affix/simple_reforging_table": {
+    "criteria": {
+      "material": "2025-05-31 00:56:37 +0000"
+    },
+    "done": true
+  },
+  "apotheotic_additions:affix/materials": {
+    "criteria": {
+      "material": "2025-05-31 00:56:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-05-31 01:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-31 01:14:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-31 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-05-31 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-31 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-05-31 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-31 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-05-31 01:31:16 +0000"
     },
     "done": true
   },
@@ -9566,39 +9536,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2025-05-31 00:38:54 +0000"
     },
     "done": true
   },
@@ -9608,33 +9548,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-31 01:14:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-05-31 00:47:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2025-05-31 01:31:16 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-05-31 00:47:57 +0000"
     },
     "done": true
   },
@@ -9650,27 +9566,117 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-31 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-05-31 02:04:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-31 02:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-31 02:14:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-31 02:17:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-05-31 02:17:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-05-31 02:17:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 02:22:56 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-05-31 02:22:56 +0000"
     },
     "done": true
   },
-  "apotheosis:spawner/capturing": {
+  "aether:recipes/combat/crossbow_repairing": {
     "criteria": {
-      "egg": "2025-05-31 00:56:33 +0000"
-    },
-    "done": true
-  },
-  "apotheotic_additions:main/apotheotic_coin": {
-    "criteria": {
-      "inventory_changed": "2025-05-31 00:56:31 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2025-05-31 01:31:16 +0000"
+      "has_crossbow": "2025-05-31 02:32:05 +0000"
     },
     "done": true
   },
