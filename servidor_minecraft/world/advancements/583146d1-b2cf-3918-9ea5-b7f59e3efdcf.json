@@ -6309,5 +6309,11 @@
     },
     "done": true
   },
+  "apotheotic_additions:affix/simple_reforging_table": {
+    "criteria": {
+      "material": "2025-05-31 03:07:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
