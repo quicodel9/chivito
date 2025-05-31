@@ -1819,6 +1819,7 @@
       "minecraft:spider": "2025-04-05 01:20:12 +0000",
       "minecraft:creeper": "2025-05-09 18:50:53 +0000",
       "minecraft:witch": "2025-05-09 16:03:15 +0000",
+      "minecraft:silverfish": "2025-05-31 03:53:30 +0000",
       "minecraft:zombie": "2025-04-05 00:59:39 +0000"
     },
     "done": false
@@ -9729,9 +9730,51 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/thallasium_chandelier": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_pressure_plate": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-05-31 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-31 03:59:37 +0000"
     },
     "done": true
   },
@@ -9741,15 +9784,171 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-05-31 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/copper_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:59:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-05-31 03:44:38 +0000"
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_chain": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_door": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-05-31 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_nuggets_from_ingot": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_spruce_sign": "2025-05-31 03:44:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_block": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bars": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_trapdoor": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_anvil": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
     },
     "done": true
   },

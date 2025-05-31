@@ -6335,6 +6335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6374,6 +6380,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:03:24 +0000"
     },
     "done": true
   },
@@ -6437,6 +6449,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-05-31 03:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6452,6 +6470,12 @@
   "georenouveau:recipes/misc/copper_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:52:54 +0000"
     },
     "done": true
   },
@@ -6497,6 +6521,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:03:24 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/blood_altar": {
     "criteria": {
       "has_gold": "2025-05-31 03:41:18 +0000"
@@ -6539,6 +6569,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-05-31 03:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
@@ -6554,6 +6590,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:03:24 +0000"
     },
     "done": true
   },
@@ -6584,6 +6626,12 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:03:24 +0000"
     },
     "done": true
   },
@@ -6635,6 +6683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:52:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/gold_chandelier": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6644,6 +6698,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-05-31 03:52:54 +0000"
     },
     "done": true
   },
@@ -6674,6 +6740,12 @@
   "aether:recipes/combat/golden_gloves": {
     "criteria": {
       "has_gold": "2025-05-31 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-05-31 04:03:24 +0000"
     },
     "done": true
   },
