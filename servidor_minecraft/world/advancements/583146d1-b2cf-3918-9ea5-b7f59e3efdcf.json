@@ -6312,6 +6312,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2025-05-31 03:41:18 +0000"
@@ -6366,6 +6372,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/pink_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6375,6 +6387,13 @@
   "apotheotic_additions:affix/simple_reforging_table": {
     "criteria": {
       "material": "2025-05-31 03:07:01 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/roan_stone_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_roan_stone_bricks": "2025-05-31 04:23:26 +0000",
+      "has_item1_domum_ornamentum_roan_stone_bricks": "2025-05-31 04:23:26 +0000"
     },
     "done": true
   },
@@ -6468,6 +6487,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/purple_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "georenouveau:recipes/misc/copper_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-05-31 03:24:38 +0000"
@@ -6486,6 +6511,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-05-31 04:07:15 +0000"
@@ -6495,6 +6538,12 @@
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-31 04:20:30 +0000"
     },
     "done": true
   },
@@ -6528,9 +6577,21 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/light_blue_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/veridium_dart": {
     "criteria": {
       "has_feather": "2025-05-31 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/gray_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
     },
     "done": true
   },
@@ -6558,6 +6619,18 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/lime_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/red_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
@@ -6573,6 +6646,12 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/orange_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
     },
     "done": true
   },
@@ -6612,6 +6691,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/yellow_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
     "criteria": {
       "has_ingots/gold": "2025-05-31 03:41:18 +0000"
@@ -6648,6 +6733,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/light_gray_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-05-31 03:40:59 +0000"
@@ -6672,9 +6763,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/blue_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
     },
     "done": true
   },
@@ -6696,9 +6799,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/gold_chandelier": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/green_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/magenta_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
     },
     "done": true
   },
@@ -6708,9 +6829,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-05-31 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cyan_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/black_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
     },
     "done": true
   },
@@ -6753,6 +6892,18 @@
   "skilltree:recipes/misc/traveler_necklace": {
     "criteria": {
       "has_feather": "2025-05-31 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/brown_brick_extra": {
+    "criteria": {
+      "has_material": "2025-05-31 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-31 04:23:26 +0000"
     },
     "done": true
   },
