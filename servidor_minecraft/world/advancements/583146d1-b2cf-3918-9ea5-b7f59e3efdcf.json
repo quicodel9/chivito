@@ -4421,7 +4421,8 @@
   },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
-      "shirt": "2025-04-12 14:25:19 +0000"
+      "shirt": "2025-04-12 14:25:19 +0000",
+      "pants": "2025-05-31 04:08:42 +0000"
     },
     "done": false
   },
@@ -6482,6 +6483,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-31 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-05-31 04:07:15 +0000"
     },
     "done": true
   },

@@ -9778,6 +9778,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-05-31 03:52:09 +0000"
@@ -9787,6 +9793,18 @@
   "celestisynth:recipes/misc/eyebomination": {
     "criteria": {
       "has_item": "2025-05-31 03:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-05-31 04:09:38 +0000"
     },
     "done": true
   },
@@ -9808,6 +9826,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2025-05-31 03:59:37 +0000"
@@ -9817,6 +9841,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-05-31 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
     },
     "done": true
   },
@@ -9832,9 +9862,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_door": {
     "criteria": {
       "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/torchflower_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-05-31 04:09:38 +0000"
     },
     "done": true
   },
@@ -9874,6 +9916,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-05-31 04:01:40 +0000"
@@ -9904,15 +9952,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2025-05-31 04:01:40 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_bulb_lantern": {
     "criteria": {
       "has_thallasium_ingot": "2025-05-31 03:59:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pine_fruit_seeds": {
+    "criteria": {
+      "has_item": "2025-05-31 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2025-05-31 04:04:49 +0000"
     },
     "done": true
   },
