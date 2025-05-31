@@ -6315,9 +6315,69 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/enter_catacombs": {
     "criteria": {
       "in_catacombs": "2025-05-31 03:10:41 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/copper_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:24:38 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-31 03:24:38 +0000"
     },
     "done": true
   },

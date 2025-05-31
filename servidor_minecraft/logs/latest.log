@@ -6058,3 +6058,32 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [31May2025 03:24:44.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16017ms or 320 ticks behind
 [31May2025 03:25:15.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16423ms or 328 ticks behind
 [31May2025 03:25:46.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16023ms or 320 ticks behind
+[31May2025 03:26:19.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17101ms or 342 ticks behind
+[31May2025 03:26:51.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17210ms or 344 ticks behind
+[31May2025 03:27:23.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17319ms or 346 ticks behind
+[31May2025 03:27:55.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16782ms or 335 ticks behind
+[31May2025 03:28:21.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was shot by Hermit Witch
+[31May2025 03:28:26.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16329ms or 326 ticks behind
+[31May2025 03:28:46.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> xddddddd
+[31May2025 03:28:59.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18073ms or 361 ticks behind
+[31May2025 03:29:23.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was killed by magic
+[31May2025 03:29:32.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17528ms or 350 ticks behind
+[31May2025 03:30:04.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17000ms or 340 ticks behind
+[31May2025 03:30:34.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15455ms or 309 ticks behind
+[31May2025 03:31:05.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15593ms or 311 ticks behind
+[31May2025 03:31:24.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> AAAAAAAAA
+[31May2025 03:31:36.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16764ms or 335 ticks behind
+[31May2025 03:31:39.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Mine Turtle!]
+[31May2025 03:32:08.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16614ms or 332 ticks behind
+[31May2025 03:32:39.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16186ms or 323 ticks behind
+[31May2025 03:33:08.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14271ms or 285 ticks behind
+[31May2025 03:33:37.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13481ms or 269 ticks behind
+[31May2025 03:33:59.501] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER
+[31May2025 03:33:59.502] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.bobmowzie.mowziesmobs.server.entity.wroughtnaut.EntityWroughtnaut cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/bobmowzie/mowziesmobs/client/sound/BossMusic for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[31May2025 03:34:11.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19511ms or 390 ticks behind
+[31May2025 03:34:33.242] [Worker-Main-23/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[31May2025 03:34:33.745] [Worker-Main-23/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 503ms
+[31May2025 03:34:47.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21050ms or 421 ticks behind
+[31May2025 03:35:21.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19034ms or 380 ticks behind
+[31May2025 03:35:42.191] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[31May2025 03:35:59.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22583ms or 451 ticks behind
