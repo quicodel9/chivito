@@ -6116,6 +6116,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-05-31 01:13:13 +0000"
@@ -6131,6 +6143,72 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-05-31 02:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/stellarite_block_from_stellarite_piece": {
+    "criteria": {
+      "has_stellarite_piece": "2025-05-31 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-31 02:10:10 +0000"
     },
     "done": true
   },
