@@ -6208,3 +6208,28 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [31May2025 02:00:40.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15016ms or 300 ticks behind
 [31May2025 02:01:11.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15636ms or 312 ticks behind
 [31May2025 02:01:40.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14091ms or 281 ticks behind
+[31May2025 02:02:10.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15462ms or 309 ticks behind
+[31May2025 02:02:39.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14292ms or 285 ticks behind
+[31May2025 02:02:41.196] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[31May2025 02:03:07.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12200ms or 244 ticks behind
+[31May2025 02:03:33.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11934ms or 238 ticks behind
+[31May2025 02:03:59.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10855ms or 217 ticks behind
+[31May2025 02:04:27.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12717ms or 254 ticks behind
+[31May2025 02:04:57.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15055ms or 301 ticks behind
+[31May2025 02:05:21.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carmelo'/33646, l='ServerLevel[world]', x=343.85, y=63.50, z=363.30] died, message: 'Carmelo was shot by geotrush'
+[31May2025 02:05:21.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carmelo'/33646, l='ServerLevel[world]', x=343.85, y=63.50, z=363.30] died: Carmelo was shot by geotrush
+[31May2025 02:05:28.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16010ms or 320 ticks behind
+[31May2025 02:05:58.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14533ms or 290 ticks behind
+[31May2025 02:06:25.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12735ms or 254 ticks behind
+[31May2025 02:06:55.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14301ms or 286 ticks behind
+[31May2025 02:07:24.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13959ms or 279 ticks behind
+[31May2025 02:07:54.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15353ms or 307 ticks behind
+[31May2025 02:08:24.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15449ms or 308 ticks behind
+[31May2025 02:08:35.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was blown up by Creeper
+[31May2025 02:08:54.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15105ms or 302 ticks behind
+[31May2025 02:09:22.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12759ms or 255 ticks behind
+[31May2025 02:09:52.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14514ms or 290 ticks behind
+[31May2025 02:10:21.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14485ms or 289 ticks behind
+[31May2025 02:10:51.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14612ms or 292 ticks behind
+[31May2025 02:11:21.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14907ms or 298 ticks behind
+[31May2025 02:11:53.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17247ms or 344 ticks behind
