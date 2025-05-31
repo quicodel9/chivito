@@ -6117,3 +6117,6 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [31May2025 20:47:33.085] [Server thread/WARN] [net.minecraft.util.datafix.schemas.V99/]: Unable to resolve BlockEntity for ItemStack: tetra:scroll_rolled
 [31May2025 20:47:33.085] [Server thread/WARN] [net.minecraft.util.datafix.schemas.V99/]: Unable to resolve BlockEntity for ItemStack: tetra:scroll_rolled
 [31May2025 20:47:33.085] [Server thread/WARN] [net.minecraft.util.datafix.schemas.V99/]: Unable to resolve BlockEntity for ItemStack: tetra:scroll_rolled
+[31May2025 20:55:46.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Archie'/1957, l='ServerLevel[world]', x=78.70, y=128.00, z=3.30] died, message: 'Archie hit the ground too hard'
+[31May2025 20:55:46.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Archie'/1957, l='ServerLevel[world]', x=78.70, y=128.00, z=3.30] died: Archie fell from a high place
+[31May2025 20:57:00.138] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
