@@ -6294,3 +6294,12 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [31May2025 21:46:36.979] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [31May2025 21:46:46.870] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
 [31May2025 21:46:47.112] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[31May2025 21:59:37.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Zombie
+[31May2025 21:59:37.648] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[31May2025 21:59:37.649] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[31May2025 21:59:37.649] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[31May2025 21:59:37.649] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[31May2025 21:59:37.649] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[31May2025 21:59:47.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Disconnected
+[31May2025 21:59:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[31May2025 21:59:47.261] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
