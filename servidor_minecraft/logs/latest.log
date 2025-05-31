@@ -6120,3 +6120,8 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [31May2025 20:55:46.446] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Archie'/1957, l='ServerLevel[world]', x=78.70, y=128.00, z=3.30] died, message: 'Archie hit the ground too hard'
 [31May2025 20:55:46.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Archie'/1957, l='ServerLevel[world]', x=78.70, y=128.00, z=3.30] died: Archie fell from a high place
 [31May2025 20:57:00.138] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[31May2025 21:05:57.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Danae'/1958, l='ServerLevel[world]', x=77.34, y=129.00, z=3.16] died, message: 'Danae hit the ground too hard'
+[31May2025 21:05:57.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Danae'/1958, l='ServerLevel[world]', x=77.34, y=129.00, z=3.16] died: Danae fell from a high place
+[31May2025 21:06:07.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Disconnected
+[31May2025 21:06:07.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[31May2025 21:06:07.368] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
