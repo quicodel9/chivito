@@ -290,6 +290,7 @@
       "minecraft:dark_forest": "2025-05-28 16:48:13 +0000",
       "minecraft:river": "2025-04-05 01:32:10 +0000",
       "minecraft:stony_shore": "2025-05-28 16:17:54 +0000",
+      "minecraft:dripstone_caves": "2025-05-31 03:14:58 +0000",
       "minecraft:cold_ocean": "2025-05-28 16:19:20 +0000",
       "minecraft:forest": "2025-04-05 00:37:46 +0000",
       "minecraft:lush_caves": "2025-05-30 03:08:22 +0000",
@@ -9680,9 +9681,27 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/emerald_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-31 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-31 03:18:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-05-31 03:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-05-31 03:15:51 +0000"
     },
     "done": true
   },
@@ -9695,6 +9714,18 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-05-31 03:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-05-31 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-31 03:18:07 +0000"
     },
     "done": true
   },
