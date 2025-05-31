@@ -6125,3 +6125,133 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [31May2025 21:06:07.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Disconnected
 [31May2025 21:06:07.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
 [31May2025 21:06:07.368] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[31May2025 21:12:43.025] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31May2025 21:12:43.026] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31May2025 21:12:43.026] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31May2025 21:12:43.026] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31May2025 21:12:43.027] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31May2025 21:12:43.027] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31May2025 21:12:43.027] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31May2025 21:12:43.027] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31May2025 21:12:43.027] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31May2025 21:12:43.028] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31May2025 21:12:43.028] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31May2025 21:12:43.028] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[31May2025 21:13:02.022] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[31May2025 21:13:02.022] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[31May2025 21:13:02.083] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[31May2025 21:13:04.554] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[31May2025 21:13:05.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.86.89.54:59855] logged in with entity id 7989 at (279.67233612459273, 63.0, 177.81550830010735)
+[31May2025 21:13:05.096] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[31May2025 21:13:05.097] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[31May2025 21:13:05.097] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[31May2025 21:13:05.097] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[31May2025 21:13:05.099] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[31May2025 21:13:05.100] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[31May2025 21:13:05.101] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[31May2025 21:13:05.154] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player geotrush
+[31May2025 21:13:05.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[31May2025 21:13:05.255] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[31May2025 21:13:05.316] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[31May2025 21:13:05.321] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[31May2025 21:13:05.349] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[31May2025 21:13:05.409] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[31May2025 21:13:05.409] [Server thread/INFO] [survive/]: Syncing Armor Data
+[31May2025 21:13:05.410] [Server thread/INFO] [survive/]: Done with Armors
+[31May2025 21:13:05.411] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[31May2025 21:13:05.411] [Server thread/INFO] [survive/]: Done with Fluids
+[31May2025 21:13:05.411] [Server thread/INFO] [survive/]: Syncing Biome Data
+[31May2025 21:13:05.411] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[31May2025 21:13:10.229] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[31May2025 21:13:10.436] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[31May2025 21:14:03.159] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Disconnected
+[31May2025 21:14:03.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[31May2025 21:14:03.160] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[31May2025 21:14:03.183] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 21:14:36.198] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31May2025 21:14:36.199] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31May2025 21:14:36.199] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31May2025 21:14:36.199] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31May2025 21:14:36.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31May2025 21:14:36.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31May2025 21:14:36.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31May2025 21:14:36.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31May2025 21:14:36.201] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31May2025 21:14:36.201] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31May2025 21:14:36.201] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31May2025 21:14:36.201] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[31May2025 21:14:38.067] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[31May2025 21:14:38.067] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[31May2025 21:14:38.242] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[31May2025 21:14:38.432] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[31May2025 21:14:38.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.86.89.54:59923] logged in with entity id 8345 at (279.67233612459273, 63.0, 177.81550830010735)
+[31May2025 21:14:38.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[31May2025 21:14:38.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[31May2025 21:14:38.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[31May2025 21:14:38.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[31May2025 21:14:38.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[31May2025 21:14:38.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[31May2025 21:14:38.792] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[31May2025 21:14:38.852] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player geotrush
+[31May2025 21:14:38.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[31May2025 21:14:38.932] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[31May2025 21:14:38.973] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[31May2025 21:14:38.976] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[31May2025 21:14:38.993] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[31May2025 21:14:39.047] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[31May2025 21:14:39.047] [Server thread/INFO] [survive/]: Syncing Armor Data
+[31May2025 21:14:39.048] [Server thread/INFO] [survive/]: Done with Armors
+[31May2025 21:14:39.048] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[31May2025 21:14:39.048] [Server thread/INFO] [survive/]: Done with Fluids
+[31May2025 21:14:39.049] [Server thread/INFO] [survive/]: Syncing Biome Data
+[31May2025 21:14:39.049] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[31May2025 21:14:42.178] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[31May2025 21:14:42.179] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[31May2025 21:15:18.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaa
+[31May2025 21:15:48.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> aaaaaaaa
+[31May2025 21:16:40.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[31May2025 21:16:40.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[31May2025 21:16:40.723] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[31May2025 21:16:40.760] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 21:17:18.238] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[31May2025 21:17:18.238] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[31May2025 21:17:18.238] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[31May2025 21:17:18.238] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[31May2025 21:17:18.239] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[31May2025 21:17:18.239] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[31May2025 21:17:18.239] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[31May2025 21:17:18.239] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[31May2025 21:17:18.240] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[31May2025 21:17:18.240] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[31May2025 21:17:18.240] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[31May2025 21:17:18.240] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[31May2025 21:17:29.356] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 251
+[31May2025 21:17:29.356] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 252
+[31May2025 21:17:29.572] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 253
+[31May2025 21:17:30.741] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 254
+[31May2025 21:17:31.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.86.89.54:60001] logged in with entity id 9162 at (289.9679729641939, 68.16610926093821, 146.7569656674843)
+[31May2025 21:17:31.119] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[31May2025 21:17:31.119] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[31May2025 21:17:31.120] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[31May2025 21:17:31.120] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[31May2025 21:17:31.121] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[31May2025 21:17:31.122] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[31May2025 21:17:31.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[31May2025 21:17:31.170] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player geotrush
+[31May2025 21:17:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[31May2025 21:17:31.238] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[31May2025 21:17:31.274] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[31May2025 21:17:31.277] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[31May2025 21:17:31.294] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[31May2025 21:17:31.340] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[31May2025 21:17:31.341] [Server thread/INFO] [survive/]: Syncing Armor Data
+[31May2025 21:17:31.341] [Server thread/INFO] [survive/]: Done with Armors
+[31May2025 21:17:31.341] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[31May2025 21:17:31.341] [Server thread/INFO] [survive/]: Done with Fluids
+[31May2025 21:17:31.342] [Server thread/INFO] [survive/]: Syncing Biome Data
+[31May2025 21:17:31.342] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[31May2025 21:17:34.341] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[31May2025 21:17:34.521] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[31May2025 21:20:27.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Disconnected
+[31May2025 21:20:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[31May2025 21:20:27.955] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
