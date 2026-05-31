@@ -1,0 +1,17 @@
+{
+	id: "583146d1-b2cf-3918-9ea5-b7f59e3efdcf"
+	type: "player"
+	player_name: "geotrush"
+	ranks: {
+		583146d1-b2cf-3918-9ea5-b7f59e3efdcf: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "geotrush"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
